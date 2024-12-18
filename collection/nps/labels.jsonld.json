@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1034689",
+    "http://schema.org/name": "Nature prints"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1034690",
+    "http://schema.org/name": "Nature prints--Technique"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1065640",
+    "http://schema.org/name": "Plant prints"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204598",
+    "http://schema.org/name": "Pennsylvania"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204916",
+    "http://schema.org/name": "Hawaii--Honolulu"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205842",
+    "http://schema.org/name": "California--Santa Barbara"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1240314",
+    "http://schema.org/name": "Hawaii--Molokai"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1321415",
+    "http://schema.org/name": "California--San Diego--Ocean Beach"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919943",
+    "http://schema.org/name": "Newsletters (form)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/528243",
+    "http://schema.org/name": "National Museum of Natural History"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/558207",
+    "http://schema.org/name": "Santa Barbara Museum of Natural History"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/925956",
+    "http://schema.org/name": "Fish prints"
+  }
+]

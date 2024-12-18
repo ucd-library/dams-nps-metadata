@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1034690"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919943"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/List_of_authors-articles_1977-1989.pdf"
+  },
+  "schema:creator": "Nature Printing Society",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1989"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3kh0f421",
+    "D-724"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/List_of_authors-articles_1977-1989-000.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "List of authors and articles 1977-1989"
+}

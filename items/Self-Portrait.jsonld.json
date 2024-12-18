@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1034689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/558207"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Self-Portrait.tif"
+  },
+  "schema:creator": "Robert A. Cale",
+  "schema:description": "Location: Santa Barbara Museum of Natural History \n\n Method: direct face print \n\n Size (H\"xW\"): 15 x 22",
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d34b2x941"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "Self Portrait",
+  "schema:temporal": "Undated"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/558207"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1065640"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1034689"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Inkodye-on-Cloth.tif"
+  },
+  "schema:creator": "Ida Geary",
+  "schema:description": "Method: direct \n\n Location: Santa Barbara Museum of Natural History \n\n Size (H\"xW\"): 15.5 x 9.5",
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d3901zm5p"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "Inkodye-on-Cloth",
+  "schema:temporal": "Undated"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1034690"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/NPS_Vol_XXXI_1_Winter_2008.pdf"
+  },
+  "schema:creator": "Nature Printing Society",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2008"
+  },
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d3g15tg64"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/NPS_Vol_XXXI_1_Winter_2008-000.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "NPS Vol 31 No. 1 Winter 2008",
+  "schema:publisher": "Nature Printing Society"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1034689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/925956"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Butterflyfish-1980.tif"
+  },
+  "schema:creator": "Christopher Dewees",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1980"
+  },
+  "schema:description": "Method: direct gyotaku \n\n Location: Personal Collection of Christopher Dewees \n\n Size (H\"xW\"): 13 x 18",
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d32j6888m"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "Butterflyfishes"
+}

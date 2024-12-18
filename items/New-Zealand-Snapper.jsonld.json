@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/558207"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/925956"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1034689"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/New-Zealand-Snapper.tif"
+  },
+  "schema:creator": "Alan Golder",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2000"
+  },
+  "schema:description": "Location: Santa Barbara Museum of Natural History \n\n Method: direct gyotaku \n\n Size (H\"xW\"): 13 x 21",
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d3n87346p"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:name": "New Zealand Snapper"
+}

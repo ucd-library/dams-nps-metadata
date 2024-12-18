@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1034689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1034690"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2024"
+  },
+  "schema:description": "The Nature Printing Society is an international non-profit arts organization dedicated to nature printing in all forms. We support both the art of nature printing and its history. We share our printmaking techniques online, with publications and annual conferences. Membership is open to all at [natureprintingsociety.org](http://www.natureprintingsociety.org).",
+  "schema:identifier": [
+    "D-724",
+    "ark:/87293/d3057d056"
+  ],
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3ws8hr5z/Leaves-of-Grass.tif"
+  },
+  "schema:license": {
+    "@id": "https://rightsstatements.org/page/InC-US/1.0/"
+  },
+  "schema:name": "Nature Printing Society Collection",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2024"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
