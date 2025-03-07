@@ -35,7 +35,7 @@
     "ark:/87293/d36t0h17m"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/NPS_VOL_XVI_4_DEC_1993-000.jpg"
+    "@id": "@base:/media/images/NPS_VOL_XVI_4_DEC_1993-000.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"

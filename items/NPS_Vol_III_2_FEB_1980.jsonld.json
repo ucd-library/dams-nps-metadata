@@ -35,7 +35,7 @@
     "ark:/87293/d3sx64f6j"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/NPS_Vol_III_2_FEB_1980-000.jpg"
+    "@id": "@base:/media/images/NPS_Vol_III_2_FEB_1980-000.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"

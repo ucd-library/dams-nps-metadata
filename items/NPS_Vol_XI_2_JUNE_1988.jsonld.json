@@ -35,7 +35,7 @@
     "D-724"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/NPS_Vol_XI_2_JUNE_1988-000.jpg"
+    "@id": "@base:/media/images/NPS_Vol_XI_2_JUNE_1988-000.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"

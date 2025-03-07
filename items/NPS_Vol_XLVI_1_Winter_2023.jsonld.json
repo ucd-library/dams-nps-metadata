@@ -35,7 +35,7 @@
     "ark:/87293/d3q814x77"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/NPS_Vol_XLVI_1_Winter_2023-000.jpg"
+    "@id": "@base:/media/images/NPS_Vol_XLVI_1_Winter_2023-000.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
