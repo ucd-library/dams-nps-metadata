@@ -17,11 +17,14 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/NPS_Author_Index.pdf"
   },
-  "schema:creator": "Christopher M.  Dewees",
+  "schema:creator": "Christopher M. Dewees",
   "schema:identifier": [
     "D-724",
     "ark:/87293/d3pn8xn0x"
   ],
+  "schema:image": {
+  	"@id": "@base:/media/images/NPS_Author_Index-01.tif"
+  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
   },
