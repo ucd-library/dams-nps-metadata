@@ -38,7 +38,7 @@
     "@id": "@base:/media/images/NPS_Vol_XXVI_1_JAN_2003-000.jpg"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "NPS Vol 26 No. 1 JAN 2003",
   "schema:publisher": "Nature Printing Society"

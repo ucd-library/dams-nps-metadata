@@ -38,7 +38,7 @@
     "@id": "@base:/media/images/NPS_Vol_II_3_JAN_1979-000.jpg"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "NPS Vol 02 No. 3 JAN 1979",
   "schema:publisher": "Nature Printing Society"

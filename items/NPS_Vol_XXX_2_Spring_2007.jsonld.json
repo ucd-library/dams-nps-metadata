@@ -38,7 +38,7 @@
     "@id": "@base:/media/images/NPS_Vol_XXX_2_Spring_2007-000.jpg"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "NPS Vol 30 No. 2 Spring 2007",
   "schema:publisher": "Nature Printing Society"

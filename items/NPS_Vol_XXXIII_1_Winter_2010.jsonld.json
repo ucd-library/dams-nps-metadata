@@ -38,7 +38,7 @@
     "@id": "@base:/media/images/NPS_Vol_XXXIII_1_Winter_2010-000.jpg"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "NPS Vol 33 No. 1 Winter 2010",
   "schema:publisher": "Nature Printing Society"

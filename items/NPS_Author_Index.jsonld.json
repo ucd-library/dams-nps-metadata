@@ -26,7 +26,7 @@
   	"@id": "@base:/media/images/NPS_Author_Index-01.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "NPS Author Index, 1976-2009",
   "schema:temporal": "1976-2009"
