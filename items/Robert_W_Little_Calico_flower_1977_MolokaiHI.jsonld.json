@@ -28,7 +28,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Robert_W_Little_Calico_flower_1977_MolokaiHI.tif"
   },
-  "schema:creator": "Robert W. Little",
+  "schema:creator": "Little, Robert W.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1977"

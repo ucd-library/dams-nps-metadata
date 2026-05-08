@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/F_G_HochbergJr_1985.tif"
   },
-  "schema:creator": "F.G. Hochberg, Jr.",
+  "schema:creator": "Hochberg, Jr., F.G.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1985"

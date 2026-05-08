@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Parrotfish--Ochiai-1980.tif"
   },
-  "schema:creator": "Syuko Ochiai",
+  "schema:creator": "Ochiai, Syuko",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1980"

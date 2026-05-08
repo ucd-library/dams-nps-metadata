@@ -28,7 +28,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Skate-Race.tif"
   },
-  "schema:creator": "Robert A. Cale",
+  "schema:creator": "Cale, Robert A.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1970"

@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Robert_W_Little_For_Eric_Hochberg_1976.tif"
   },
-  "schema:creator": "Robert W. Little",
+  "schema:creator": "Little, Robert W.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1976"

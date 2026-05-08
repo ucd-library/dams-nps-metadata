@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Nagase-Salmon--1999.tif"
   },
-  "schema:creator": "Boshu Nagase",
+  "schema:creator": "Nagase, Boshu",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2010"

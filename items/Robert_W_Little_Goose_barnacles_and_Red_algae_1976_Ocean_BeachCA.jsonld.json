@@ -28,7 +28,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Robert_W_Little_Goose_barnacles_and_Red_algae_1976_Ocean_BeachCA.tif"
   },
-  "schema:creator": "Robert W. Little",
+  "schema:creator": "Little, Robert W.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1976"

@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Robert_W_Little_Wild_sarsaparilla_1975.tif"
   },
-  "schema:creator": "Robert W. Little",
+  "schema:creator": "Little, Robert W.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1975"

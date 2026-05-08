@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/File-Fish--1976.tif"
   },
-  "schema:creator": "Tosei Hamada",
+  "schema:creator": "Hamada, Tosei",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1976"

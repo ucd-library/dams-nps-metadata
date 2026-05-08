@@ -28,7 +28,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/New-Zealand-Snapper.tif"
   },
-  "schema:creator": "Alan Golder",
+  "schema:creator": "Golder, Alan",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2000"

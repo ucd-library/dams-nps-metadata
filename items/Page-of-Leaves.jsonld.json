@@ -28,7 +28,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/Page-of-Leaves.tif"
   },
-  "schema:creator": "Ida Geary",
+  "schema:creator": "Geary, Ida",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1977"
