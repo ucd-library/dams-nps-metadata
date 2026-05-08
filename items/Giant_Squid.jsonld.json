@@ -17,6 +17,11 @@
   "schema:associatedMedia": {
     "@id": "@base:/Giant_Squid.jpg"
   },
+  "schema:about": [
+  	{
+  		"@id": "http://id.worldcat.org/fast/1034689"
+  	}
+  ],
   "schema:creator": "Yamamoto, Mineo",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
