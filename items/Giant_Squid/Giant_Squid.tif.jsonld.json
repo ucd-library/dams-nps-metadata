@@ -14,6 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "ebucore:filename": "Giant_Squid.jpg",
-  "ebucore:hasMimeType": "image/jpeg"
+  "ebucore:filename": "Giant_Squid.tif",
+  "ebucore:hasMimeType": "image/tiff"
 }

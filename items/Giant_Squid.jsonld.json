@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/Giant_Squid.jpg"
+    "@id": "@base:/Giant_Squid.tif"
   },
   "schema:about": [
   	{
