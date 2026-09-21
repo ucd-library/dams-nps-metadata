@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "魚の美しさを伝え、つなぐ",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "ja",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-002.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-003.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-004.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-005.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-006.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-007.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-008.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-009.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-010.tif"
+    },
+    {
+      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-011.tif"
+    }
+  ]
+}

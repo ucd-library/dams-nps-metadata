@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:position": "009",
+  "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes-page-007.tif",
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "元の見開きページ10・11。上に布を魚に押し当て、乾かし、色を重ね、目を描く四段階の写真。右下に本文、左下に青やオレンジ色のカレイとヒラメの作品。",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
+  }
+}
