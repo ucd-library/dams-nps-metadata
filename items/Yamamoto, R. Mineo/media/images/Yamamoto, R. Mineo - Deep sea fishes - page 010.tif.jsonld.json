@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:position": "012",
+  "ebucore:filename": "Yamamoto, R. Mineo - Deep sea fishes - page 010.tif",
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "元のページ16。上に巨大なカグラザメの魚拓と山本氏、漁港で魚を囲む人々。中央に制作中の山本氏の写真と略歴、下に記事の続きと写真提供者の表示。",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto%2C%20R.%20Mineo%20-%20Deep%20sea%20fishes.pdf"
+  }
+}
