@@ -22,7 +22,7 @@
   "schema:name": "Schwartz, Jack",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Process-2-Applying-Paint.jpeg"
+    "@id": "@base:/media/images/Process-2-Applying-Paint.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

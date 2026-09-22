@@ -22,7 +22,7 @@
   "schema:name": "Holden, Christine",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Holden-C-Drifting-Over-the-Coral-juv-Blue-Tang.jpg"
+    "@id": "@base:/media/images/Holden-C-Drifting-Over-the-Coral-juv-Blue-Tang.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

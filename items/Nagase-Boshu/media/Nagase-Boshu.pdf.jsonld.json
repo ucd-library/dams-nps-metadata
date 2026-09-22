@@ -29,25 +29,25 @@
       "@id": "@base:../images/Nagase-Boshu-Memorial-page-001.tif"
     },
     {
-      "@id": "@base:../images/Nagase-ayu.jpg"
+      "@id": "@base:../images/Nagase-ayu.tif"
     },
     {
-      "@id": "@base:../images/Nagase-koi.jpg"
+      "@id": "@base:../images/Nagase-koi.tif"
     },
     {
-      "@id": "@base:../images/Nagase-Alaskan-Salmon-1999.jpg"
+      "@id": "@base:../images/Nagase-Alaskan-Salmon-1999.tif"
     },
     {
-      "@id": "@base:../images/Nagase-Antarctic-Fishes-cover.jpg"
+      "@id": "@base:../images/Nagase-Antarctic-Fishes-cover.tif"
     },
     {
-      "@id": "@base:../images/Nagase-ayu-detail.jpg"
+      "@id": "@base:../images/Nagase-ayu-detail.tif"
     },
     {
-      "@id": "@base:../images/Nagase-carp-in-fall-detail.jpg"
+      "@id": "@base:../images/Nagase-carp-in-fall-detail.tif"
     },
     {
-      "@id": "@base:../images/NPS-visit-to-Nagase-2010.jpg"
+      "@id": "@base:../images/NPS-visit-to-Nagase-2010.tif"
     }
   ],
   "schema:numberOfPages": 9

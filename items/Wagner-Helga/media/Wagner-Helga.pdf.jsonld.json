@@ -29,25 +29,25 @@
       "@id": "@base:../images/Wagner-Helga-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-Dress.jpeg"
+      "@id": "@base:../images/Helga-Wagner-Dress.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-Plant-print.jpeg"
+      "@id": "@base:../images/Helga-Wagner-Plant-print.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-Plant-print2-1.jpeg"
+      "@id": "@base:../images/Helga-Wagner-Plant-print2-1.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-Plant-print2.jpeg"
+      "@id": "@base:../images/Helga-Wagner-Plant-print2.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-Wearable-Art.jpeg"
+      "@id": "@base:../images/Helga-Wagner-Wearable-Art.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-plant-print-on-old-fabric.jpg"
+      "@id": "@base:../images/Helga-Wagner-plant-print-on-old-fabric.tif"
     },
     {
-      "@id": "@base:../images/Helga-Wagner-plant-print-on-old-fabric2.jpg"
+      "@id": "@base:../images/Helga-Wagner-plant-print-on-old-fabric2.tif"
     }
   ],
   "schema:numberOfPages": 9

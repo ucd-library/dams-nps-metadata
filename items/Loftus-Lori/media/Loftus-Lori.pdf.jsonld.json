@@ -26,16 +26,16 @@
       "@id": "@base:../images/Loftus-Lori-CV-page-001.tif"
     },
     {
-      "@id": "@base:../images/Eco-Dyed-silk-2017-steam-method.jpg"
+      "@id": "@base:../images/Eco-Dyed-silk-2017-steam-method.tif"
     },
     {
-      "@id": "@base:../images/OIMB-2013-Ling-Cod-indirect-method.jpg"
+      "@id": "@base:../images/OIMB-2013-Ling-Cod-indirect-method.tif"
     },
     {
-      "@id": "@base:../images/Octopus-2012-direct-method.jpg"
+      "@id": "@base:../images/Octopus-2012-direct-method.tif"
     },
     {
-      "@id": "@base:../images/Snapper-2016-indirect-method.jpg"
+      "@id": "@base:../images/Snapper-2016-indirect-method.tif"
     }
   ],
   "schema:numberOfPages": 5

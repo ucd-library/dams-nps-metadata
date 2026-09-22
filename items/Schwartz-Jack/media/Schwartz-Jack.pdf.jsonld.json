@@ -26,13 +26,13 @@
       "@id": "@base:../images/Schwartz-Jack-CV-page-001.tif"
     },
     {
-      "@id": "@base:../images/Mary-Schwartz-Mineo-Yamamoto.jpeg"
+      "@id": "@base:../images/Mary-Schwartz-Mineo-Yamamoto.tif"
     },
     {
-      "@id": "@base:../images/Process-2-Applying-Paint.jpeg"
+      "@id": "@base:../images/Process-2-Applying-Paint.tif"
     },
     {
-      "@id": "@base:../images/SilverSTriperchasing-bait.jpeg"
+      "@id": "@base:../images/SilverSTriperchasing-bait.tif"
     }
   ],
   "schema:numberOfPages": 4

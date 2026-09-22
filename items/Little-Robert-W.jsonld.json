@@ -22,7 +22,7 @@
   "schema:name": "Little, Robert W.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Bob-Little-Article-1982-A-copy.jpg"
+    "@id": "@base:/media/images/Bob-Little-Article-1982-A-copy.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

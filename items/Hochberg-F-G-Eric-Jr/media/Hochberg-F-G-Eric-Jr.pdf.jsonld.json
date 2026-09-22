@@ -29,22 +29,22 @@
       "@id": "@base:../images/Hochberg-F-G-Eric-Jr-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Dr-F-G-Hochberg-Jr.jpg"
+      "@id": "@base:../images/Dr-F-G-Hochberg-Jr.tif"
     },
     {
-      "@id": "@base:../images/Eric-copy.jpg"
+      "@id": "@base:../images/Eric-copy.tif"
     },
     {
-      "@id": "@base:../images/Eric-s-Shovelnose-copy.jpg"
+      "@id": "@base:../images/Eric-s-Shovelnose-copy.tif"
     },
     {
-      "@id": "@base:../images/Eric-s-Shovelnose.jpg"
+      "@id": "@base:../images/Eric-s-Shovelnose.tif"
     },
     {
-      "@id": "@base:../images/Eric.jpg"
+      "@id": "@base:../images/Eric.tif"
     },
     {
-      "@id": "@base:../images/Hochberg-good-copy.jpg"
+      "@id": "@base:../images/Hochberg-good-copy.tif"
     }
   ],
   "schema:numberOfPages": 8

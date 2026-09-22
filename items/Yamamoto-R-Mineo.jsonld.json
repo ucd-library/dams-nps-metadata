@@ -22,7 +22,7 @@
   "schema:name": "Yamamoto, R. Mineo",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Mineo-is-printing-52-kind-deep-sea-fishes.jpg"
+    "@id": "@base:/media/images/Mineo-is-printing-52-kind-deep-sea-fishes.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

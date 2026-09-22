@@ -22,7 +22,7 @@
   "schema:name": "Larsen, Sonja",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/sl-studio.jpeg"
+    "@id": "@base:/media/images/sl-studio.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

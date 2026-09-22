@@ -32,31 +32,31 @@
       "@id": "@base:../images/Hiyama-Yoshio-Letter-1974-page-002.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-1964-book.jpg"
+      "@id": "@base:../images/Hiyama-1964-book.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-1972-Kodansha-book.jpg"
+      "@id": "@base:../images/Hiyama-1972-Kodansha-book.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-Butterfish-indirect.jpg"
+      "@id": "@base:../images/Hiyama-Butterfish-indirect.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-Young-flatfishes-direct.jpg"
+      "@id": "@base:../images/Hiyama-Young-flatfishes-direct.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-pollock-indirect.jpg"
+      "@id": "@base:../images/Hiyama-pollock-indirect.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-red-sea-bream-indirect.jpg"
+      "@id": "@base:../images/Hiyama-red-sea-bream-indirect.tif"
     },
     {
-      "@id": "@base:../images/Hiyama-rockfish-direct.jpg"
+      "@id": "@base:../images/Hiyama-rockfish-direct.tif"
     },
     {
-      "@id": "@base:../images/Oldest-gyotaku-Homma-Museum.jpg"
+      "@id": "@base:../images/Oldest-gyotaku-Homma-Museum.tif"
     },
     {
-      "@id": "@base:../images/Yoshio-Hiyama-photo.jpg"
+      "@id": "@base:../images/Yoshio-Hiyama-photo.tif"
     }
   ],
   "schema:numberOfPages": 12

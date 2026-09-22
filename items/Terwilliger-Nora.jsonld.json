@@ -22,7 +22,7 @@
   "schema:name": "Terwilliger, Nora",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Terwilliger-Joy-of-Polychaete-Printing.jpeg"
+    "@id": "@base:/media/images/Terwilliger-Joy-of-Polychaete-Printing.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

@@ -22,7 +22,7 @@
   "schema:name": "Cromley, Marian",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Marian-Sea-Bass.jpg"
+    "@id": "@base:/media/images/Marian-Sea-Bass.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

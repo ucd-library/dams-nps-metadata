@@ -29,13 +29,13 @@
       "@id": "@base:../images/Bartz-Hebe-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Hebe-Bartz1.jpg"
+      "@id": "@base:../images/Hebe-Bartz1.tif"
     },
     {
-      "@id": "@base:../images/Hebe-Bartz2.jpg"
+      "@id": "@base:../images/Hebe-Bartz2.tif"
     },
     {
-      "@id": "@base:../images/Hebe-PMC-jewelry.jpg"
+      "@id": "@base:../images/Hebe-PMC-jewelry.tif"
     }
   ],
   "schema:numberOfPages": 5

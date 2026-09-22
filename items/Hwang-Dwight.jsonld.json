@@ -22,7 +22,7 @@
   "schema:name": "Hwang, Dwight",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/_MG_6516.jpg"
+    "@id": "@base:/media/images/_MG_6516.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

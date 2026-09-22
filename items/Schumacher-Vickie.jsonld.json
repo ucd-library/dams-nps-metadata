@@ -22,7 +22,7 @@
   "schema:name": "Schumacher, Vickie",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Arrowhead-Arum-with-d-fly-stained-bkgrnd-traditional-4x5-2.jpg"
+    "@id": "@base:/media/images/Arrowhead-Arum-with-d-fly-stained-bkgrnd-traditional-4x5-2.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

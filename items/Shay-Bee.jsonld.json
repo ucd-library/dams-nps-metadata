@@ -22,7 +22,7 @@
   "schema:name": "Shay, Bee",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/IMG_4978.jpg"
+    "@id": "@base:/media/images/IMG_4978.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

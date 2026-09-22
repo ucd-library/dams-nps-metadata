@@ -22,7 +22,7 @@
   "schema:name": "Mullett, Fred B.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/fbmullett-2-for-nps-cv.jpg"
+    "@id": "@base:/media/images/fbmullett-2-for-nps-cv.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

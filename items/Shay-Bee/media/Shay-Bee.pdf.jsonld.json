@@ -29,34 +29,34 @@
       "@id": "@base:../images/Shay-Bee-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/IMG_1356.jpg"
+      "@id": "@base:../images/IMG_1356.tif"
     },
     {
-      "@id": "@base:../images/IMG_2685.jpg"
+      "@id": "@base:../images/IMG_2685.tif"
     },
     {
-      "@id": "@base:../images/IMG_4978.jpg"
+      "@id": "@base:../images/IMG_4978.tif"
     },
     {
-      "@id": "@base:../images/IMG_5098.jpg"
+      "@id": "@base:../images/IMG_5098.tif"
     },
     {
-      "@id": "@base:../images/IMG_5856.jpg"
+      "@id": "@base:../images/IMG_5856.tif"
     },
     {
-      "@id": "@base:../images/IMG_6760.jpg"
+      "@id": "@base:../images/IMG_6760.tif"
     },
     {
-      "@id": "@base:../images/IMG_7174.jpg"
+      "@id": "@base:../images/IMG_7174.tif"
     },
     {
-      "@id": "@base:../images/IMG_9178.jpg"
+      "@id": "@base:../images/IMG_9178.tif"
     },
     {
-      "@id": "@base:../images/IMG_9382.jpg"
+      "@id": "@base:../images/IMG_9382.tif"
     },
     {
-      "@id": "@base:../images/IMG_9755.jpg"
+      "@id": "@base:../images/IMG_9755.tif"
     }
   ],
   "schema:numberOfPages": 12

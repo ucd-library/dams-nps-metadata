@@ -22,7 +22,7 @@
   "schema:name": "Bartz, Hebe",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Hebe-Bartz1.jpg"
+    "@id": "@base:/media/images/Hebe-Bartz1.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

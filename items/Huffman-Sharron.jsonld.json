@@ -22,7 +22,7 @@
   "schema:name": "Huffman, Sharron",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Huffman-Inking-Big-Octopus.jpg"
+    "@id": "@base:/media/images/Huffman-Inking-Big-Octopus.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

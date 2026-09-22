@@ -26,16 +26,16 @@
       "@id": "@base:../images/Cromley-Marian-CV-page-001.tif"
     },
     {
-      "@id": "@base:../images/Marian-Sea-Bass.jpg"
+      "@id": "@base:../images/Marian-Sea-Bass.tif"
     },
     {
-      "@id": "@base:../images/Marian-Snapper.jpg"
+      "@id": "@base:../images/Marian-Snapper.tif"
     },
     {
-      "@id": "@base:../images/Marian-ballyhoo.jpg"
+      "@id": "@base:../images/Marian-ballyhoo.tif"
     },
     {
-      "@id": "@base:../images/NPS-Padre-Island-Workshop-1-copy.jpeg"
+      "@id": "@base:../images/NPS-Padre-Island-Workshop-1-copy.tif"
     }
   ],
   "schema:numberOfPages": 5

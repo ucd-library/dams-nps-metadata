@@ -22,7 +22,7 @@
   "schema:name": "Geary, Ida",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/Ida-Geary-plant-prints.jpg"
+    "@id": "@base:/media/images/Ida-Geary-plant-prints.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

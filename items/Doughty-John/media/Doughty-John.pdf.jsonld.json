@@ -29,31 +29,31 @@
       "@id": "@base:../images/Doughty-John-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Cutleaf-Japanese-Maple.jpg"
+      "@id": "@base:../images/Cutleaf-Japanese-Maple.tif"
     },
     {
-      "@id": "@base:../images/Hydrangea.jpg"
+      "@id": "@base:../images/Hydrangea.tif"
     },
     {
-      "@id": "@base:../images/JohnStomping.jpg"
+      "@id": "@base:../images/JohnStomping.tif"
     },
     {
-      "@id": "@base:../images/JohnWithStompingPress.jpg"
+      "@id": "@base:../images/JohnWithStompingPress.tif"
     },
     {
-      "@id": "@base:../images/Miscanthus-Grape-plant-x-ray.jpg"
+      "@id": "@base:../images/Miscanthus-Grape-plant-x-ray.tif"
     },
     {
-      "@id": "@base:../images/Money-Plant-plant-x-ray-Cyanotype.jpg"
+      "@id": "@base:../images/Money-Plant-plant-x-ray-Cyanotype.tif"
     },
     {
-      "@id": "@base:../images/P105.jpg"
+      "@id": "@base:../images/P105.tif"
     },
     {
-      "@id": "@base:../images/Rabbit-Footed-Fern.jpg"
+      "@id": "@base:../images/Rabbit-Footed-Fern.tif"
     },
     {
-      "@id": "@base:../images/john-s-prints.png"
+      "@id": "@base:../images/john-s-prints.tif"
     }
   ],
   "schema:numberOfPages": 11

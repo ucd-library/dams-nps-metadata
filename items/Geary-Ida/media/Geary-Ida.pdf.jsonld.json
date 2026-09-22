@@ -26,13 +26,13 @@
       "@id": "@base:../images/Geary-Ida-CV-page-001.tif"
     },
     {
-      "@id": "@base:../images/Geary-Book-announcement.jpg"
+      "@id": "@base:../images/Geary-Book-announcement.tif"
     },
     {
-      "@id": "@base:../images/Ida-Geary-Plant-Printing-book.jpg"
+      "@id": "@base:../images/Ida-Geary-Plant-Printing-book.tif"
     },
     {
-      "@id": "@base:../images/Ida-Geary-plant-prints.jpg"
+      "@id": "@base:../images/Ida-Geary-plant-prints.tif"
     }
   ],
   "schema:numberOfPages": 4

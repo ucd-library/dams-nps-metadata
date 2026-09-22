@@ -22,7 +22,7 @@
   "schema:name": "Loftus, Lori",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:image": {
-    "@id": "@base:/media/images/OIMB-2013-Ling-Cod-indirect-method.jpg"
+    "@id": "@base:/media/images/OIMB-2013-Ling-Cod-indirect-method.tif"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",

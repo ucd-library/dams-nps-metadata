@@ -29,13 +29,13 @@
       "@id": "@base:../images/Huffman-Sharron-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Huffman-Inking-Big-Octopus.jpg"
+      "@id": "@base:../images/Huffman-Inking-Big-Octopus.tif"
     },
     {
-      "@id": "@base:../images/Huffman-Koi-Pond.jpg"
+      "@id": "@base:../images/Huffman-Koi-Pond.tif"
     },
     {
-      "@id": "@base:../images/Huffman-Round-Encaustic.jpg"
+      "@id": "@base:../images/Huffman-Round-Encaustic.tif"
     }
   ],
   "schema:numberOfPages": 5

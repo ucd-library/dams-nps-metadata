@@ -29,16 +29,16 @@
       "@id": "@base:../images/Little-Robert-W-CV-page-002.tif"
     },
     {
-      "@id": "@base:../images/Bob-Little-Article-1982-A-copy.jpg"
+      "@id": "@base:../images/Bob-Little-Article-1982-A-copy.tif"
     },
     {
-      "@id": "@base:../images/Little-Spanish-moss-and-oak-print.jpg"
+      "@id": "@base:../images/Little-Spanish-moss-and-oak-print.tif"
     },
     {
-      "@id": "@base:../images/Little-in-field.jpg"
+      "@id": "@base:../images/Little-in-field.tif"
     },
     {
-      "@id": "@base:../images/Seed-pods-Little.jpg"
+      "@id": "@base:../images/Seed-pods-Little.tif"
     }
   ],
   "schema:numberOfPages": 6

@@ -26,16 +26,16 @@
       "@id": "@base:../images/Larsen-Sonja-CV-page-001.tif"
     },
     {
-      "@id": "@base:../images/IMG_0555.jpeg"
+      "@id": "@base:../images/IMG_0555.tif"
     },
     {
-      "@id": "@base:../images/IMG_08walleye_2.jpeg"
+      "@id": "@base:../images/IMG_08walleye_2.tif"
     },
     {
-      "@id": "@base:../images/bluegill-sngl3.jpeg"
+      "@id": "@base:../images/bluegill-sngl3.tif"
     },
     {
-      "@id": "@base:../images/sl-studio.jpeg"
+      "@id": "@base:../images/sl-studio.tif"
     }
   ],
   "schema:numberOfPages": 5
