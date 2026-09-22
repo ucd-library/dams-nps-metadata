@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Holden-Christine-CV.pdf"
+    "@id": "@base:../../Holden-Christine.pdf"
   },
   "ucdlib:textIndexable": true
 }

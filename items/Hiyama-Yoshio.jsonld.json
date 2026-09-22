@@ -13,14 +13,9 @@
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": [
-    {
-      "@id": "@base:/media/Hiyama-Yoshio-CV.pdf"
-    },
-    {
-      "@id": "@base:/media/Hiyama-Yoshio-Letter-1974.pdf"
-    }
-  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/Hiyama-Yoshio.pdf"
+  },
   "schema:identifier": [
     "ark:/87293/d3fb4wx5q"
   ],

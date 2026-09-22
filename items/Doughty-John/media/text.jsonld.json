@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../Doughty-John.pdf"
   },
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

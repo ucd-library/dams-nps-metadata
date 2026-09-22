@@ -17,5 +17,8 @@
   "schema:position": "021",
   "ebucore:filename": "small-pic-of-Giant-squid.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Long green giant squid print with extended arms and tentacles on white paper."
+  "schema:alternativeHeadline": "Long green giant squid print with extended arms and tentacles on white paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
+  }
 }

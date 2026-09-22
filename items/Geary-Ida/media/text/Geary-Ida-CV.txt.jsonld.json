@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Geary-Ida-CV.pdf"
+    "@id": "@base:../../Geary-Ida.pdf"
   },
   "ucdlib:textIndexable": true
 }

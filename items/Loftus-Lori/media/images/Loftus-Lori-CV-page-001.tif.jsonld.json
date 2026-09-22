@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Lori Ann Loftus, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Loftus-Lori-CV.pdf"
+    "@id": "@base:../../Loftus-Lori.pdf"
   }
 }

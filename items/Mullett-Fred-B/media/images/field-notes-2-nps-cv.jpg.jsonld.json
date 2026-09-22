@@ -17,5 +17,8 @@
   "schema:position": "010",
   "ebucore:filename": "field-notes-2-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Two leaf prints with variegated blue, yellow, and green textures."
+  "schema:alternativeHeadline": "Two leaf prints with variegated blue, yellow, and green textures.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

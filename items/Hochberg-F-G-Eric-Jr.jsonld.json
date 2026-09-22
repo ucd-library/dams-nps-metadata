@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Hochberg-F-G-Eric-Jr-CV.pdf"
+    "@id": "@base:/media/Hochberg-F-G-Eric-Jr.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d39p2wh49"

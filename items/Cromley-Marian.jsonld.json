@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Cromley-Marian-CV.pdf"
+    "@id": "@base:/media/Cromley-Marian.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3zc7s529"

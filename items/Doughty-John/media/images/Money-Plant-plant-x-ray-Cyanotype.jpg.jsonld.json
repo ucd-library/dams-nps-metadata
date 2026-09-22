@@ -17,5 +17,8 @@
   "schema:position": "008",
   "ebucore:filename": "Money-Plant-plant-x-ray-Cyanotype.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "White money-plant seed pods on a deep blue cyanotype background."
+  "schema:alternativeHeadline": "White money-plant seed pods on a deep blue cyanotype background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Doughty-John.pdf"
+  }
 }

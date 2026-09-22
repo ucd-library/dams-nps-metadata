@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Abalone-trio-scroll.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Hanging scroll with three abalone prints arranged vertically."
+  "schema:alternativeHeadline": "Hanging scroll with three abalone prints arranged vertically.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Dewees-Christopher-M.pdf"
+  }
 }

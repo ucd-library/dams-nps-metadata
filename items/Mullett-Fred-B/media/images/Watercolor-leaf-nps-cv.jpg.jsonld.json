@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Watercolor-leaf-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Single leaf print in muted purple, blue, and red with sharply defined veins."
+  "schema:alternativeHeadline": "Single leaf print in muted purple, blue, and red with sharply defined veins.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

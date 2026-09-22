@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cromley-Marian-CV.pdf"
+    "@id": "@base:../../Cromley-Marian.pdf"
   },
   "ucdlib:textIndexable": true
 }

@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Yoshio Hiyama letter to Christopher M. Dewees, page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hiyama-Yoshio-Letter-1974.pdf"
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
   }
 }

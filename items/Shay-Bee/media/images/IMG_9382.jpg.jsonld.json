@@ -17,5 +17,8 @@
   "schema:position": "011",
   "ebucore:filename": "IMG_9382.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Dark tree-ring cross-section print on cream paper, signed below."
+  "schema:alternativeHeadline": "Dark tree-ring cross-section print on cream paper, signed below.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Shay-Bee.pdf"
+  }
 }

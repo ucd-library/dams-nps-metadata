@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Terwilliger-Nora-CV.pdf"
+    "@id": "@base:../../Terwilliger-Nora.pdf"
   },
   "ucdlib:textIndexable": true
 }

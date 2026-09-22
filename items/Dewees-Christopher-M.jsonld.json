@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Dewees-Christopher-M-CV.pdf"
+    "@id": "@base:/media/Dewees-Christopher-M.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3tm72b7f"

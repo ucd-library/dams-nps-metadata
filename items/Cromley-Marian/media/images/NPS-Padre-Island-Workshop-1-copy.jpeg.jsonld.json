@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "NPS-Padre-Island-Workshop-1-copy.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Workshop photograph of a person holding up a large fish print."
+  "schema:alternativeHeadline": "Workshop photograph of a person holding up a large fish print.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Cromley-Marian.pdf"
+  }
 }

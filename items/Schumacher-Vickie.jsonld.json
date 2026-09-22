@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Schumacher-Vickie-CV.pdf"
+    "@id": "@base:/media/Schumacher-Vickie.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d34x54t1s"

@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Mullett-Fred-B-CV.pdf"
+    "@id": "@base:../../Mullett-Fred-B.pdf"
   },
   "ucdlib:textIndexable": true
 }

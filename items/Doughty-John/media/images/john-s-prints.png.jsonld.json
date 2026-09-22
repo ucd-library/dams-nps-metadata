@@ -17,5 +17,8 @@
   "schema:position": "011",
   "ebucore:filename": "john-s-prints.png",
   "ebucore:hasMimeType": "image/png",
-  "schema:alternativeHeadline": "Text listing institutions holding John Doughty's nature prints, cyanotypes, and plant x-rays, including a Smithsonian exhibition around 1990."
+  "schema:alternativeHeadline": "Text listing institutions holding John Doughty's nature prints, cyanotypes, and plant x-rays, including a Smithsonian exhibition around 1990.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Doughty-John.pdf"
+  }
 }

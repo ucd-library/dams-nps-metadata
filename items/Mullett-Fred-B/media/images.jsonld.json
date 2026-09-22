@@ -25,6 +25,6 @@
     "@id": ""
   },
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../Mullett-Fred-B.pdf"
   }
 }

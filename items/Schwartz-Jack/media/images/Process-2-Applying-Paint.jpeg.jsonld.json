@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Process-2-Applying-Paint.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Person applies paint to a large fish laid on an outdoor table."
+  "schema:alternativeHeadline": "Person applies paint to a large fish laid on an outdoor table.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Schwartz-Jack.pdf"
+  }
 }

@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../Hochberg-F-G-Eric-Jr.pdf"
   },
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

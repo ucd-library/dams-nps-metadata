@@ -17,5 +17,8 @@
   "schema:position": "006",
   "ebucore:filename": "fbmullett-3-for-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Workshop participants gather around a table near a chalkboard during a printing demonstration."
+  "schema:alternativeHeadline": "Workshop participants gather around a table near a chalkboard during a printing demonstration.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

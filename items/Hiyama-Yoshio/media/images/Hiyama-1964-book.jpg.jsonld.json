@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Hiyama-1964-book.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Cover of Gyotaku Fish Print by Yoshio Hiyama, with a large black fish print."
+  "schema:alternativeHeadline": "Cover of Gyotaku Fish Print by Yoshio Hiyama, with a large black fish print.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
+  }
 }

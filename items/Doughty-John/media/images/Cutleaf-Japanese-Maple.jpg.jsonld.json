@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Cutleaf-Japanese-Maple.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Fine green Japanese maple leaves and branching stems printed on a mottled pale background."
+  "schema:alternativeHeadline": "Fine green Japanese maple leaves and branching stems printed on a mottled pale background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Doughty-John.pdf"
+  }
 }

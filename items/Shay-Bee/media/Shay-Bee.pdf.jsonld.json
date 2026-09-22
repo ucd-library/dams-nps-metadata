@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Shay, Bee - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Shay-Bee.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Shay-Bee-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Shay-Bee-CV-page-002.tif"
+    },
+    {
+      "@id": "@base:../images/IMG_1356.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_2685.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_4978.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_5098.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_5856.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_6760.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_7174.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_9178.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_9382.jpg"
+    },
+    {
+      "@id": "@base:../images/IMG_9755.jpg"
+    }
+  ],
+  "schema:numberOfPages": 12
+}

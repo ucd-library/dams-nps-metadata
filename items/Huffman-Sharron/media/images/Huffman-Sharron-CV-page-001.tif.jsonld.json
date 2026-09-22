@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Sharron Huffman, page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Huffman-Sharron-CV.pdf"
+    "@id": "@base:../../Huffman-Sharron.pdf"
   }
 }

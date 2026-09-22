@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo-CV.pdf"
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
   },
   "ucdlib:textIndexable": true
 }

@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Nagase-ayu.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Framed scene of slender fish beneath leafy branches and beside a wooden structure."
+  "schema:alternativeHeadline": "Framed scene of slender fish beneath leafy branches and beside a wooden structure.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Nagase-Boshu.pdf"
+  }
 }

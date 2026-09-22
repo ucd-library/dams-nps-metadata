@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Doughty-John-CV.pdf"
+    "@id": "@base:../../Doughty-John.pdf"
   },
   "ucdlib:textIndexable": true
 }

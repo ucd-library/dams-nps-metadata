@@ -17,5 +17,8 @@
   "schema:position": "006",
   "ebucore:filename": "_MG_6516.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Black-and-white photograph of two people working together over a fish-printing table."
+  "schema:alternativeHeadline": "Black-and-white photograph of two people working together over a fish-printing table.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hwang-Dwight.pdf"
+  }
 }

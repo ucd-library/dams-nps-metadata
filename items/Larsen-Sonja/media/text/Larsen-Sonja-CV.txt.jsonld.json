@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Larsen-Sonja-CV.pdf"
+    "@id": "@base:../../Larsen-Sonja.pdf"
   },
   "ucdlib:textIndexable": true
 }

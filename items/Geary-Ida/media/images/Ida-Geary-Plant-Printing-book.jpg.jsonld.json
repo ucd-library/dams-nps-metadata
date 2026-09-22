@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Ida-Geary-Plant-Printing-book.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Cover of Plant Printing by Ida Geary, illustrated with golden botanical impressions; Tamal Land Press, 1978."
+  "schema:alternativeHeadline": "Cover of Plant Printing by Ida Geary, illustrated with golden botanical impressions; Tamal Land Press, 1978.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Geary-Ida.pdf"
+  }
 }

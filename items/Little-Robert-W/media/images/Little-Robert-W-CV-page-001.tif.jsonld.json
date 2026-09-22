@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Robert W. Little, page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Little-Robert-W-CV.pdf"
+    "@id": "@base:../../Little-Robert-W.pdf"
   }
 }

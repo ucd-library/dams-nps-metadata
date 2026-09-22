@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../Loftus-Lori.pdf"
   },
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

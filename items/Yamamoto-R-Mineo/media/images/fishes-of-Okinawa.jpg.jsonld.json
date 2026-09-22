@@ -17,5 +17,8 @@
   "schema:position": "020",
   "ebucore:filename": "fishes-of-Okinawa.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Tall composition of colorful fish prints arranged vertically on white paper."
+  "schema:alternativeHeadline": "Tall composition of colorful fish prints arranged vertically on white paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
+  }
 }

@@ -13,14 +13,9 @@
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": [
-    {
-      "@id": "@base:/media/Yamamoto-R-Mineo-CV.pdf"
-    },
-    {
-      "@id": "@base:/media/Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
-    }
-  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/Yamamoto-R-Mineo.pdf"
+  },
   "schema:identifier": [
     "ark:/87293/d3cf9jh9f"
   ],

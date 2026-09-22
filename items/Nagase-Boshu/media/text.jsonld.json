@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../Nagase-Boshu.pdf"
   },
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

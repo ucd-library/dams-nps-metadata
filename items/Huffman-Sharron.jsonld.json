@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Huffman-Sharron-CV.pdf"
+    "@id": "@base:/media/Huffman-Sharron.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3251fw63"

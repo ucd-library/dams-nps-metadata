@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Bartz-Hebe-CV.pdf"
+    "@id": "@base:../../Bartz-Hebe.pdf"
   },
   "ucdlib:textIndexable": true
 }

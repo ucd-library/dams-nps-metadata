@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Doughty-John-CV.pdf"
+    "@id": "@base:/media/Doughty-John.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3pv6bj2t"

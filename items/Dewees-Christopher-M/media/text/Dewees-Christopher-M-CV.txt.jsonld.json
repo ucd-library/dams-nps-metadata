@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M-CV.pdf"
+    "@id": "@base:../../Dewees-Christopher-M.pdf"
   },
   "ucdlib:textIndexable": true
 }

@@ -17,5 +17,8 @@
   "schema:position": "007",
   "ebucore:filename": "fbmullett-for-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Black-and-white close-up portrait of Fred Mullett behind a cluster of paintbrushes."
+  "schema:alternativeHeadline": "Black-and-white close-up portrait of Fred Mullett behind a cluster of paintbrushes.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

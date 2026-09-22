@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Dwight Hwang, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hwang-Dwight-CV.pdf"
+    "@id": "@base:../../Hwang-Dwight.pdf"
   }
 }

@@ -17,5 +17,8 @@
   "schema:position": "012",
   "ebucore:filename": "Yoshio-Hiyama-photo.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Black-and-white portrait of Yoshio Hiyama wearing a suit and tie."
+  "schema:alternativeHeadline": "Black-and-white portrait of Yoshio Hiyama wearing a suit and tie.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
+  }
 }

@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Marian M. Cromley, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cromley-Marian-CV.pdf"
+    "@id": "@base:../../Cromley-Marian.pdf"
   }
 }

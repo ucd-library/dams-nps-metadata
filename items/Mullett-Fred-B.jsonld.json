@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Mullett-Fred-B-CV.pdf"
+    "@id": "@base:/media/Mullett-Fred-B.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3df6kd7q"

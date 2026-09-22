@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cale-Robert-A-Biography.pdf"
+    "@id": "@base:../../Cale-Robert-A.pdf"
   },
   "ucdlib:textIndexable": true
 }

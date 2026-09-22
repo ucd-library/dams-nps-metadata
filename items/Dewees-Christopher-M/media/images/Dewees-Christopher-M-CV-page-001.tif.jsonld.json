@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Christopher Malcolm Dewees, page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M-CV.pdf"
+    "@id": "@base:../../Dewees-Christopher-M.pdf"
   }
 }

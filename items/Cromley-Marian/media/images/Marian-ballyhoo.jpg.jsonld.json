@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Marian-ballyhoo.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Print of two long, slender ballyhoo fish facing left."
+  "schema:alternativeHeadline": "Print of two long, slender ballyhoo fish facing left.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Cromley-Marian.pdf"
+  }
 }

@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Holden-Christine-CV.pdf"
+    "@id": "@base:/media/Holden-Christine.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d35x25q11"

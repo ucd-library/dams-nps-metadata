@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Helga Wagner, page 2 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga-CV.pdf"
+    "@id": "@base:../../Wagner-Helga.pdf"
   }
 }

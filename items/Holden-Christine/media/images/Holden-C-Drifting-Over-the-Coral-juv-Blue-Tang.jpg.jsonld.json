@@ -17,5 +17,8 @@
   "schema:position": "002",
   "ebucore:filename": "Holden-C-Drifting-Over-the-Coral-juv-Blue-Tang.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "School of bright yellow juvenile blue tang printed above coral on a pale turquoise background."
+  "schema:alternativeHeadline": "School of bright yellow juvenile blue tang printed above coral on a pale turquoise background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Holden-Christine.pdf"
+  }
 }

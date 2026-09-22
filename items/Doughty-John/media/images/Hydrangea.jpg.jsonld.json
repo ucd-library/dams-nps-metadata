@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Hydrangea.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Blue hydrangea flower head with green leaves on a pale background."
+  "schema:alternativeHeadline": "Blue hydrangea flower head with green leaves on a pale background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Doughty-John.pdf"
+  }
 }

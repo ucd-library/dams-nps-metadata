@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schwartz-Jack-CV.pdf"
+    "@id": "@base:../../Schwartz-Jack.pdf"
   },
   "ucdlib:textIndexable": true
 }

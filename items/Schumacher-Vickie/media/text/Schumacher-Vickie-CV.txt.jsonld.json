@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schumacher-Vickie-CV.pdf"
+    "@id": "@base:../../Schumacher-Vickie.pdf"
   },
   "ucdlib:textIndexable": true
 }

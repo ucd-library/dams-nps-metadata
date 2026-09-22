@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "20200825_165704.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Black-and-white botanical composition incorporating a face among leaves."
+  "schema:alternativeHeadline": "Black-and-white botanical composition incorporating a face among leaves.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hwang-Dwight.pdf"
+  }
 }

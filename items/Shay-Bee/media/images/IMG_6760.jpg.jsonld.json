@@ -17,5 +17,8 @@
   "schema:position": "008",
   "ebucore:filename": "IMG_6760.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Bee Shay works over a tray of swirling black-and-white marbling patterns."
+  "schema:alternativeHeadline": "Bee Shay works over a tray of swirling black-and-white marbling patterns.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Shay-Bee.pdf"
+  }
 }

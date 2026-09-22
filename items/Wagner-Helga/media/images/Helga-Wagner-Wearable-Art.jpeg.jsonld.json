@@ -17,5 +17,8 @@
   "schema:position": "007",
   "ebucore:filename": "Helga-Wagner-Wearable-Art.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Three colorful garments with botanical prints displayed on hangers."
+  "schema:alternativeHeadline": "Three colorful garments with botanical prints displayed on hangers.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Wagner-Helga.pdf"
+  }
 }

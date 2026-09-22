@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga-CV.pdf"
+    "@id": "@base:../../Wagner-Helga.pdf"
   },
   "ucdlib:textIndexable": true
 }

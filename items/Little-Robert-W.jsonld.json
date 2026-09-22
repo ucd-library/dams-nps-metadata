@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Little-Robert-W-CV.pdf"
+    "@id": "@base:/media/Little-Robert-W.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3nv99n2k"

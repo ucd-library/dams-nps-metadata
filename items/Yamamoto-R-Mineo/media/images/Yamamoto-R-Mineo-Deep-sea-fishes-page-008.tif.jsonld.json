@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "元の見開きページ12・13。右上に白黒のダルポーポイスの赤ちゃんの作品、右下に本文。左に、展示された長いダイオウイカの魚拓の隣に立つ山本氏。",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
   }
 }

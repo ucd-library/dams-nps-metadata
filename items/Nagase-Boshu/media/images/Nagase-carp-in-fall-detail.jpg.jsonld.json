@@ -17,5 +17,8 @@
   "schema:position": "008",
   "ebucore:filename": "Nagase-carp-in-fall-detail.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Large dark carp beneath a canopy of red and orange maple leaves."
+  "schema:alternativeHeadline": "Large dark carp beneath a canopy of red and orange maple leaves.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Nagase-Boshu.pdf"
+  }
 }

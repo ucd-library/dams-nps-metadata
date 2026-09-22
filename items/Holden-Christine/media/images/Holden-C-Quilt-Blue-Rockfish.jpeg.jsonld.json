@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "Holden-C-Quilt-Blue-Rockfish.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Quilt featuring dark blue rockfish and seaweed within gold and dark fabric borders."
+  "schema:alternativeHeadline": "Quilt featuring dark blue rockfish and seaweed within gold and dark fabric borders.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Holden-Christine.pdf"
+  }
 }

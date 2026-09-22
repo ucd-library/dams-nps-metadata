@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "SilverSTriperchasing-bait.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Large striped fish chasing a smaller baitfish, printed in silver on black."
+  "schema:alternativeHeadline": "Large striped fish chasing a smaller baitfish, printed in silver on black.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Schwartz-Jack.pdf"
+  }
 }

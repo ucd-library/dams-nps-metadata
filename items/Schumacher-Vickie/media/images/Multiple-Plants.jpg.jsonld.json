@@ -17,5 +17,8 @@
   "schema:position": "006",
   "ebucore:filename": "Multiple-Plants.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Dense vertical botanical composition with flowers, leaves, and dark seed heads."
+  "schema:alternativeHeadline": "Dense vertical botanical composition with flowers, leaves, and dark seed heads.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Schumacher-Vickie.pdf"
+  }
 }

@@ -17,5 +17,8 @@
   "schema:position": "007",
   "ebucore:filename": "Miscanthus-Grape-plant-x-ray.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "White plant x-ray silhouettes, curling tendrils, and leaves on black."
+  "schema:alternativeHeadline": "White plant x-ray silhouettes, curling tendrils, and leaves on black.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Doughty-John.pdf"
+  }
 }

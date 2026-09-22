@@ -17,5 +17,8 @@
   "schema:position": "007",
   "ebucore:filename": "Nagase-ayu-detail.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Detail of a slender green and gold ayu fish on a pale blue background."
+  "schema:alternativeHeadline": "Detail of a slender green and gold ayu fish on a pale blue background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Nagase-Boshu.pdf"
+  }
 }

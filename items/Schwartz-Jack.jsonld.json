@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Schwartz-Jack-CV.pdf"
+    "@id": "@base:/media/Schwartz-Jack.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3154f068"

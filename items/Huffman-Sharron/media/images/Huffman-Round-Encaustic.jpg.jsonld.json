@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "Huffman-Round-Encaustic.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Circular encaustic artwork with a purple octopus on a blue-green underwater background."
+  "schema:alternativeHeadline": "Circular encaustic artwork with a purple octopus on a blue-green underwater background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Huffman-Sharron.pdf"
+  }
 }

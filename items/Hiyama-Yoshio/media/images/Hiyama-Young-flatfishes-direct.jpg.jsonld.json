@@ -17,5 +17,8 @@
   "schema:position": "007",
   "ebucore:filename": "Hiyama-Young-flatfishes-direct.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Three small green flatfish prints spaced across white paper beside a vertical signature."
+  "schema:alternativeHeadline": "Three small green flatfish prints spaced across white paper beside a vertical signature.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
+  }
 }

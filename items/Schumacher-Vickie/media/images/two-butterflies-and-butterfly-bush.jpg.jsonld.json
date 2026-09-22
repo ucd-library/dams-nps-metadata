@@ -17,5 +17,8 @@
   "schema:position": "008",
   "ebucore:filename": "two-butterflies-and-butterfly-bush.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Butterflies hover above flower heads and dense leaves printed on tan paper."
+  "schema:alternativeHeadline": "Butterflies hover above flower heads and dense leaves printed on tan paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Schumacher-Vickie.pdf"
+  }
 }

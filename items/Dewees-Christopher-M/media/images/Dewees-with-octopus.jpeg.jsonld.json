@@ -17,5 +17,8 @@
   "schema:position": "008",
   "ebucore:filename": "Dewees-with-octopus.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Christopher Dewees works over an octopus at a printing table, with an octopus print hanging behind him."
+  "schema:alternativeHeadline": "Christopher Dewees works over an octopus at a printing table, with an octopus print hanging behind him.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Dewees-Christopher-M.pdf"
+  }
 }

@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "sl-studio.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Sonja Larsen leans over a print while working at a table."
+  "schema:alternativeHeadline": "Sonja Larsen leans over a print while working at a table.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Larsen-Sonja.pdf"
+  }
 }

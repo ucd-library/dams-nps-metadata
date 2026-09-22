@@ -17,5 +17,8 @@
   "schema:position": "002",
   "ebucore:filename": "IMG_0555.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Delicate dark dandelion seed head with a curved stem and drifting seeds on white paper."
+  "schema:alternativeHeadline": "Delicate dark dandelion seed head with a curved stem and drifting seeds on white paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Larsen-Sonja.pdf"
+  }
 }

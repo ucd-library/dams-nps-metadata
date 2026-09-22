@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Terwilliger-Two-Lings-and-a-Flag-Rock.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Overlapping fish prints in dark green and pink against a blue-green underwater background."
+  "schema:alternativeHeadline": "Overlapping fish prints in dark green and pink against a blue-green underwater background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Terwilliger-Nora.pdf"
+  }
 }

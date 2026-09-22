@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hwang-Dwight-CV.pdf"
+    "@id": "@base:../../Hwang-Dwight.pdf"
   },
   "ucdlib:textIndexable": true
 }

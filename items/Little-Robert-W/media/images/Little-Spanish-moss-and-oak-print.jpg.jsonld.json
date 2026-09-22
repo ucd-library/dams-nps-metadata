@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Little-Spanish-moss-and-oak-print.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Green Spanish moss hangs from a leafy oak branch printed on white paper."
+  "schema:alternativeHeadline": "Green Spanish moss hangs from a leafy oak branch printed on white paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Little-Robert-W.pdf"
+  }
 }

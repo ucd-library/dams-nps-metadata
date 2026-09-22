@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Hwang-Dwight-CV.pdf"
+    "@id": "@base:/media/Hwang-Dwight.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3xd0r80n"

@@ -17,5 +17,8 @@
   "schema:position": "002",
   "ebucore:filename": "Takuga-calendar-2-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "January 2016 calendar illustrated with a cluster of red and yellow flowers."
+  "schema:alternativeHeadline": "January 2016 calendar illustrated with a cluster of red and yellow flowers.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

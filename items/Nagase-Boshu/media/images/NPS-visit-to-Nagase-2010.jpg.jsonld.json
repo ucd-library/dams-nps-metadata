@@ -17,5 +17,8 @@
   "schema:position": "009",
   "ebucore:filename": "NPS-visit-to-Nagase-2010.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Group photograph of Nature Printing Society visitors at Boshu Nagase's home, dated 2010 in the caption."
+  "schema:alternativeHeadline": "Group photograph of Nature Printing Society visitors at Boshu Nagase's home, dated 2010 in the caption.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Nagase-Boshu.pdf"
+  }
 }

@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "元のページ16。上に巨大なカグラザメの魚拓と山本氏、漁港で魚を囲む人々。中央に制作中の山本氏の写真と略歴、下に記事の続きと写真提供者の表示。",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
   }
 }

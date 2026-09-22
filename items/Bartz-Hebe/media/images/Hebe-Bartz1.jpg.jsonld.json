@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Hebe-Bartz1.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Hebe Bartz stands beside a table displaying jewelry and printed works."
+  "schema:alternativeHeadline": "Hebe Bartz stands beside a table displaying jewelry and printed works.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Bartz-Hebe.pdf"
+  }
 }

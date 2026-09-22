@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Hochberg, F. G. (Eric), Jr. - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Hochberg-F-G-Eric-Jr.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Hochberg-F-G-Eric-Jr-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Hochberg-F-G-Eric-Jr-CV-page-002.tif"
+    },
+    {
+      "@id": "@base:../images/Dr-F-G-Hochberg-Jr.jpg"
+    },
+    {
+      "@id": "@base:../images/Eric-copy.jpg"
+    },
+    {
+      "@id": "@base:../images/Eric-s-Shovelnose-copy.jpg"
+    },
+    {
+      "@id": "@base:../images/Eric-s-Shovelnose.jpg"
+    },
+    {
+      "@id": "@base:../images/Eric.jpg"
+    },
+    {
+      "@id": "@base:../images/Hochberg-good-copy.jpg"
+    }
+  ],
+  "schema:numberOfPages": 8
+}

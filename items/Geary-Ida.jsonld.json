@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Geary-Ida-CV.pdf"
+    "@id": "@base:/media/Geary-Ida.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3k35mq8c"

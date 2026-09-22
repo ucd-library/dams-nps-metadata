@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr-CV.pdf"
+    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
   },
   "ucdlib:textIndexable": true
 }

@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "IMG_1356.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Dark branching leaf impressions overlap on a mottled tan background."
+  "schema:alternativeHeadline": "Dark branching leaf impressions overlap on a mottled tan background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Shay-Bee.pdf"
+  }
 }

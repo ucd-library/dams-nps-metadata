@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee-CV.pdf"
+    "@id": "@base:../../Shay-Bee.pdf"
   },
   "ucdlib:textIndexable": true
 }

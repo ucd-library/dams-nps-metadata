@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "ja",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
   },
   "ucdlib:textIndexable": true
 }

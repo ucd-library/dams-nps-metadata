@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Hiyama, Yoshio - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Hiyama-Yoshio.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Hiyama-Yoshio-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Hiyama-Yoshio-Letter-1974-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Hiyama-Yoshio-Letter-1974-page-002.tif"
+    },
+    {
+      "@id": "@base:../images/Hiyama-1964-book.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-1972-Kodansha-book.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-Butterfish-indirect.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-Young-flatfishes-direct.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-pollock-indirect.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-red-sea-bream-indirect.jpg"
+    },
+    {
+      "@id": "@base:../images/Hiyama-rockfish-direct.jpg"
+    },
+    {
+      "@id": "@base:../images/Oldest-gyotaku-Homma-Museum.jpg"
+    },
+    {
+      "@id": "@base:../images/Yoshio-Hiyama-photo.jpg"
+    }
+  ],
+  "schema:numberOfPages": 12
+}

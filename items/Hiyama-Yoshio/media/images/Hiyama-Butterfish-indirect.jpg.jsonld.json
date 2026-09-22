@@ -17,5 +17,8 @@
   "schema:position": "006",
   "ebucore:filename": "Hiyama-Butterfish-indirect.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Silvery green butterfish print with long fins on a dark background."
+  "schema:alternativeHeadline": "Silvery green butterfish print with long fins on a dark background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
+  }
 }

@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Nagase-Boshu-Memorial.pdf"
+    "@id": "@base:../../Nagase-Boshu.pdf"
   },
   "ucdlib:textIndexable": true
 }

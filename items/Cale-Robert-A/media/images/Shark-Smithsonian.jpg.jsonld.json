@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Shark-Smithsonian.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Large shark print displayed across three framed panels."
+  "schema:alternativeHeadline": "Large shark print displayed across three framed panels.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Cale-Robert-A.pdf"
+  }
 }

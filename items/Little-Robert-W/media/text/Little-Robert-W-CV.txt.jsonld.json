@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Little-Robert-W-CV.pdf"
+    "@id": "@base:../../Little-Robert-W.pdf"
   },
   "ucdlib:textIndexable": true
 }

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Loftus, Lori - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Loftus-Lori.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Loftus-Lori-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Eco-Dyed-silk-2017-steam-method.jpg"
+    },
+    {
+      "@id": "@base:../images/OIMB-2013-Ling-Cod-indirect-method.jpg"
+    },
+    {
+      "@id": "@base:../images/Octopus-2012-direct-method.jpg"
+    },
+    {
+      "@id": "@base:../images/Snapper-2016-indirect-method.jpg"
+    }
+  ],
+  "schema:numberOfPages": 5
+}

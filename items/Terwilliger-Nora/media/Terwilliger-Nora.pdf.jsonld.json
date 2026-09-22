@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Terwilliger, Nora - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Terwilliger-Nora.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Terwilliger-Nora-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Terwilliger-White-Crappie-in-Blue-Water.jpg"
+    },
+    {
+      "@id": "@base:../images/Terwilliger-Two-Lings-and-a-Flag-Rock.jpg"
+    },
+    {
+      "@id": "@base:../images/Terwilliger-Joy-of-Polychaete-Printing.jpeg"
+    }
+  ],
+  "schema:numberOfPages": 4
+}

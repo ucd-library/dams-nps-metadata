@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "fbmullett-2-for-nps-cv.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Color portrait of Fred Mullett partly concealed behind a cluster of paintbrushes."
+  "schema:alternativeHeadline": "Color portrait of Fred Mullett partly concealed behind a cluster of paintbrushes.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Mullett-Fred-B.pdf"
+  }
 }

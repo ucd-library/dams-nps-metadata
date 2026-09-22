@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "20200509_192051.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Three elongated fish printed in black and gray across a wide sheet."
+  "schema:alternativeHeadline": "Three elongated fish printed in black and gray across a wide sheet.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hwang-Dwight.pdf"
+  }
 }

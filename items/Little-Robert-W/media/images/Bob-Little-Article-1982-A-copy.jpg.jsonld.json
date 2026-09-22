@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Bob-Little-Article-1982-A-copy.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Robert Little uses a tool at his worktable in a color photograph."
+  "schema:alternativeHeadline": "Robert Little uses a tool at his worktable in a color photograph.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Little-Robert-W.pdf"
+  }
 }

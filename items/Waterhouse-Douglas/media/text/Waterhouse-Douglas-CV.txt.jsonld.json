@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Waterhouse-Douglas-CV.pdf"
+    "@id": "@base:../../Waterhouse-Douglas.pdf"
   },
   "ucdlib:textIndexable": true
 }

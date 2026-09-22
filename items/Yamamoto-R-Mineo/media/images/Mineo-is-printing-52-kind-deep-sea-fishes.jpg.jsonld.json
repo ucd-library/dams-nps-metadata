@@ -17,5 +17,8 @@
   "schema:position": "016",
   "ebucore:filename": "Mineo-is-printing-52-kind-deep-sea-fishes.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Mineo Yamamoto stands behind a long black sheet covered with white deep-sea fish prints."
+  "schema:alternativeHeadline": "Mineo Yamamoto stands behind a long black sheet covered with white deep-sea fish prints.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
+  }
 }

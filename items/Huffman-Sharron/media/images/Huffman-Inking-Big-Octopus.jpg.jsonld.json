@@ -17,5 +17,8 @@
   "schema:position": "003",
   "ebucore:filename": "Huffman-Inking-Big-Octopus.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Sharron Huffman leans over a large octopus at a printing table, with an octopus print behind her."
+  "schema:alternativeHeadline": "Sharron Huffman leans over a large octopus at a printing table, with an octopus print behind her.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Huffman-Sharron.pdf"
+  }
 }

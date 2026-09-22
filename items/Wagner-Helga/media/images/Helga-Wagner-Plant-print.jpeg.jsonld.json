@@ -17,5 +17,8 @@
   "schema:position": "004",
   "ebucore:filename": "Helga-Wagner-Plant-print.jpeg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Flowers and leaves form an oval border on pale fabric."
+  "schema:alternativeHeadline": "Flowers and leaves form an oval border on pale fabric.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Wagner-Helga.pdf"
+  }
 }

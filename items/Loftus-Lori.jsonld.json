@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Loftus-Lori-CV.pdf"
+    "@id": "@base:/media/Loftus-Lori.pdf"
   },
   "schema:identifier": [
     "ark:/87293/d3j38kv0q"

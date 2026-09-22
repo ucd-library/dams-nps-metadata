@@ -17,5 +17,8 @@
   "schema:position": "010",
   "ebucore:filename": "Hiyama-rockfish-direct.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Black rockfish print on white paper with a vertical signature and red seal."
+  "schema:alternativeHeadline": "Black rockfish print on white paper with a vertical signature and red seal.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Hiyama-Yoshio.pdf"
+  }
 }

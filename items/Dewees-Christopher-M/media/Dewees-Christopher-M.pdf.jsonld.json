@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:name": "Dewees, Christopher M. - CV and supporting materials",
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
+  },
+  "ebucore:filename": "Dewees-Christopher-M.pdf",
+  "ebucore:hasMimeType": "application/pdf",
+  "schema:inLanguage": "en",
+  "schema:hasPart": [
+    {
+      "@id": "@base:../images/Dewees-Christopher-M-CV-page-001.tif"
+    },
+    {
+      "@id": "@base:../images/Dewees-Christopher-M-CV-page-002.tif"
+    },
+    {
+      "@id": "@base:../images/Abalone-trio-scroll.jpg"
+    },
+    {
+      "@id": "@base:../images/Butterflyfish-1980-directmethod.jpeg"
+    },
+    {
+      "@id": "@base:../images/Christopher-Dewees-master-certificate-1.jpg"
+    },
+    {
+      "@id": "@base:../images/Christopher-Dewees-master-certificate.jpg"
+    },
+    {
+      "@id": "@base:../images/Dewees-chop.jpg"
+    },
+    {
+      "@id": "@base:../images/Dewees-with-octopus.jpeg"
+    },
+    {
+      "@id": "@base:../images/Dewees-Printer-s-Catch-hardcover.jpg"
+    },
+    {
+      "@id": "@base:../images/Flounder-indirect.jpeg"
+    }
+  ],
+  "schema:numberOfPages": 10
+}

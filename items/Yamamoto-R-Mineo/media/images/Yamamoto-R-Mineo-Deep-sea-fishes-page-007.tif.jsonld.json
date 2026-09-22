@@ -19,6 +19,6 @@
   "ebucore:hasMimeType": "image/tiff",
   "schema:alternativeHeadline": "元の見開きページ10・11。上に布を魚に押し当て、乾かし、色を重ね、目を描く四段階の写真。右下に本文、左下に青やオレンジ色のカレイとヒラメの作品。",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo-Deep-sea-fishes.pdf"
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
   }
 }

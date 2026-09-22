@@ -17,5 +17,8 @@
   "schema:position": "014",
   "ebucore:filename": "52-kind-deep-sea-fishes.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "White impressions of many deep-sea fish arranged vertically on a long black background."
+  "schema:alternativeHeadline": "White impressions of many deep-sea fish arranged vertically on a long black background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
+  }
 }

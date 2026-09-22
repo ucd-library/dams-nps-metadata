@@ -13,14 +13,9 @@
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": [
-    {
-      "@id": "@base:/media/Cale-Robert-A-CV.pdf"
-    },
-    {
-      "@id": "@base:/media/Cale-Robert-A-Biography.pdf"
-    }
-  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/Cale-Robert-A.pdf"
+  },
   "schema:identifier": [
     "ark:/87293/d3348gs8r"
   ],

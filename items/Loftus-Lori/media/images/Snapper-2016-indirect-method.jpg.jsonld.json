@@ -17,5 +17,8 @@
   "schema:position": "005",
   "ebucore:filename": "Snapper-2016-indirect-method.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Bright red snapper print with detailed scales and fins on cream paper."
+  "schema:alternativeHeadline": "Bright red snapper print with detailed scales and fins on cream paper.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Loftus-Lori.pdf"
+  }
 }

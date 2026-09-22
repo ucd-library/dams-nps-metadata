@@ -16,7 +16,7 @@
   "ebucore:hasMimeType": "text/plain",
   "schema:inLanguage": "en",
   "schema:encodesCreativeWork": {
-    "@id": "@base:../../Loftus-Lori-CV.pdf"
+    "@id": "@base:../../Loftus-Lori.pdf"
   },
   "ucdlib:textIndexable": true
 }

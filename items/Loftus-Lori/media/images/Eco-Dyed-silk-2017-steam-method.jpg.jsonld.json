@@ -17,5 +17,8 @@
   "schema:position": "002",
   "ebucore:filename": "Eco-Dyed-silk-2017-steam-method.jpg",
   "ebucore:hasMimeType": "image/jpeg",
-  "schema:alternativeHeadline": "Long silk panels bearing pale botanical impressions hang against a dark background."
+  "schema:alternativeHeadline": "Long silk panels bearing pale botanical impressions hang against a dark background.",
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../../Loftus-Lori.pdf"
+  }
 }
