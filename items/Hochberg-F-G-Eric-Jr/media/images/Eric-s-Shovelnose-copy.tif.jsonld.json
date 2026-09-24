@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Eric-s-Shovelnose-copy.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Framed shovelnose fish print hanging on a wall beside a stone fireplace.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
-  }
+  "schema:alternativeHeadline": "Framed shovelnose fish print hanging on a wall beside a stone fireplace."
 }

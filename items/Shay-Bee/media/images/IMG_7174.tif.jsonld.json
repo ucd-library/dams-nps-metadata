@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "IMG_7174.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Spiraling nautilus shell outline on a mottled cream and brown square background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Spiraling nautilus shell outline on a mottled cream and brown square background."
 }

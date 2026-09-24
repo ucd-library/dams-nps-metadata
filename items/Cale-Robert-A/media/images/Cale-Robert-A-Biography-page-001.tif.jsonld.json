@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Cale-Robert-A-Biography-page-001.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "ROBERT A. CALE (1940-1990), page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cale-Robert-A.pdf"
-  }
+  "schema:alternativeHeadline": "ROBERT A. CALE (1940-1990), page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file."
 }

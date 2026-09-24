@@ -17,8 +17,5 @@
   "schema:position": "018",
   "ebucore:filename": "Yamamoto-Dewees-collection.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Three gray fish prints arranged closely together on cream paper beside a signature.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "Three gray fish prints arranged closely together on cream paper beside a signature."
 }

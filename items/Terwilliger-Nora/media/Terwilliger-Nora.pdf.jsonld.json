@@ -14,26 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Terwilliger, Nora - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Terwilliger-Nora.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Terwilliger-Nora-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Terwilliger-White-Crappie-in-Blue-Water.tif"
-    },
-    {
-      "@id": "@base:../images/Terwilliger-Two-Lings-and-a-Flag-Rock.tif"
-    },
-    {
-      "@id": "@base:../images/Terwilliger-Joy-of-Polychaete-Printing.tif"
-    }
-  ],
-  "schema:numberOfPages": 4
+  "ebucore:hasMimeType": "application/pdf"
 }

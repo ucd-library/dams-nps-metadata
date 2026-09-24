@@ -17,8 +17,5 @@
   "schema:position": "010",
   "ebucore:filename": "Rabbit-Footed-Fern.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Several green fern fronds printed side by side on cream paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Doughty-John.pdf"
-  }
+  "schema:alternativeHeadline": "Several green fern fronds printed side by side on cream paper."
 }

@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Marian-Sea-Bass.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black-and-white print of two sea bass facing opposite directions.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cromley-Marian.pdf"
-  }
+  "schema:alternativeHeadline": "Black-and-white print of two sea bass facing opposite directions."
 }

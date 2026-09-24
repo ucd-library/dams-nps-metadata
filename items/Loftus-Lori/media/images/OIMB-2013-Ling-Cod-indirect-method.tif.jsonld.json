@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "OIMB-2013-Ling-Cod-indirect-method.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Lori Loftus works over a fish at a workshop table.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Loftus-Lori.pdf"
-  }
+  "schema:alternativeHeadline": "Lori Loftus works over a fish at a workshop table."
 }

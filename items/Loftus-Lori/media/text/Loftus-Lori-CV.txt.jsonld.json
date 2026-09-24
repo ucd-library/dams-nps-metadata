@@ -12,11 +12,7 @@
   "@type": [
     "schema:CreativeWork"
   ],
+  "ucdlib:textIndexable": true,
   "ebucore:filename": "Loftus-Lori-CV.txt",
-  "ebucore:hasMimeType": "text/plain",
-  "schema:inLanguage": "en",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Loftus-Lori.pdf"
-  },
-  "ucdlib:textIndexable": true
+  "ebucore:hasMimeType": "text/plain"
 }

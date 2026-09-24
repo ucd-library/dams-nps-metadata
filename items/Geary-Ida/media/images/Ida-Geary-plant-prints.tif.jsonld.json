@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Ida-Geary-plant-prints.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Two sheets bearing delicate black botanical prints displayed together.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Geary-Ida.pdf"
-  }
+  "schema:alternativeHeadline": "Two sheets bearing delicate black botanical prints displayed together."
 }

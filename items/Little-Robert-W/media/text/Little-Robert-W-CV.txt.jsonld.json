@@ -12,11 +12,7 @@
   "@type": [
     "schema:CreativeWork"
   ],
+  "ucdlib:textIndexable": true,
   "ebucore:filename": "Little-Robert-W-CV.txt",
-  "ebucore:hasMimeType": "text/plain",
-  "schema:inLanguage": "en",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Little-Robert-W.pdf"
-  },
-  "ucdlib:textIndexable": true
+  "ebucore:hasMimeType": "text/plain"
 }

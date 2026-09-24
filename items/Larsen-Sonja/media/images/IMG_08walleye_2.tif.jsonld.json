@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "IMG_08walleye_2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Green and gold walleye print on white paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Larsen-Sonja.pdf"
-  }
+  "schema:alternativeHeadline": "Green and gold walleye print on white paper."
 }

@@ -14,44 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Mullett, Fred B. - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Mullett-Fred-B.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Mullett-Fred-B-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Takuga-calendar-2-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/Takuga-calendar-3-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/Watercolor-leaf-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/fbmullett-2-for-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/fbmullett-3-for-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/fbmullett-for-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/feather-used-as-resist-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/field-notes-1-nps-cv.tif"
-    },
-    {
-      "@id": "@base:../images/field-notes-2-nps-cv.tif"
-    }
-  ],
-  "schema:numberOfPages": 10
+  "ebucore:hasMimeType": "application/pdf"
 }

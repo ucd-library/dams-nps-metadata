@@ -17,8 +17,5 @@
   "schema:position": "001",
   "ebucore:filename": "Schwartz-Jack-CV-page-001.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Jack Schwartz, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schwartz-Jack.pdf"
-  }
+  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Jack Schwartz, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file."
 }

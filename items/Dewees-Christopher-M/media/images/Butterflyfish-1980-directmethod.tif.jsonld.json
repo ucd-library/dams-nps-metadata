@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Butterflyfish-1980-directmethod.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Three butterflyfish printed in brown on pale paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M.pdf"
-  }
+  "schema:alternativeHeadline": "Three butterflyfish printed in brown on pale paper."
 }

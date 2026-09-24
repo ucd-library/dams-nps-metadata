@@ -14,44 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Dewees, Christopher M. - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Dewees-Christopher-M.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Dewees-Christopher-M-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Dewees-Christopher-M-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Abalone-trio-scroll.tif"
-    },
-    {
-      "@id": "@base:../images/Butterflyfish-1980-directmethod.tif"
-    },
-    {
-      "@id": "@base:../images/Christopher-Dewees-master-certificate-1.tif"
-    },
-    {
-      "@id": "@base:../images/Christopher-Dewees-master-certificate.tif"
-    },
-    {
-      "@id": "@base:../images/Dewees-chop.tif"
-    },
-    {
-      "@id": "@base:../images/Dewees-with-octopus.tif"
-    },
-    {
-      "@id": "@base:../images/Dewees-Printer-s-Catch-hardcover.tif"
-    },
-    {
-      "@id": "@base:../images/Flounder-indirect.tif"
-    }
-  ],
-  "schema:numberOfPages": 10
+  "ebucore:hasMimeType": "application/pdf"
 }

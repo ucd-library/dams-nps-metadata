@@ -17,8 +17,5 @@
   "schema:position": "013",
   "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes-page-011.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "元のページ143。読者プレゼントの案内。本の表紙には笑顔の男性、アルバムPACIFICのポスターにはバンドの集合写真、カラー魚拓の見本には三匹の魚。当選者欄は丸い記号で埋められている。",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "元のページ143。読者プレゼントの案内。本の表紙には笑顔の男性、アルバムPACIFICのポスターにはバンドの集合写真、カラー魚拓の見本には三匹の魚。当選者欄は丸い記号で埋められている。"
 }

@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Holden-C-Mangrove-Snappers-1.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Group of pale mangrove snappers printed among delicate underwater plants.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Holden-Christine.pdf"
-  }
+  "schema:alternativeHeadline": "Group of pale mangrove snappers printed among delicate underwater plants."
 }

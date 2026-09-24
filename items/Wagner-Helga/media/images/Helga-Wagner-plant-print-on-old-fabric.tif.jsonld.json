@@ -17,8 +17,5 @@
   "schema:position": "008",
   "ebucore:filename": "Helga-Wagner-plant-print-on-old-fabric.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Red and pink flower impressions with green stems on pale textured fabric.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga.pdf"
-  }
+  "schema:alternativeHeadline": "Red and pink flower impressions with green stems on pale textured fabric."
 }

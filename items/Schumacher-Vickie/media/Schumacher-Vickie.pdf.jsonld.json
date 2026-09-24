@@ -14,38 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Schumacher, Vickie - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Schumacher-Vickie.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Schumacher-Vickie-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Schumacher-Vickie-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Arrowhead-Arum-with-d-fly-stained-bkgrnd-traditional-4x5-2.tif"
-    },
-    {
-      "@id": "@base:../images/California-plants-dreamin-2.tif"
-    },
-    {
-      "@id": "@base:../images/Fall-sumac-mums-dragonfly.tif"
-    },
-    {
-      "@id": "@base:../images/Multiple-Plants.tif"
-    },
-    {
-      "@id": "@base:../images/Queen-Anne-with-pincushion-and-dragonfly.tif"
-    },
-    {
-      "@id": "@base:../images/two-butterflies-and-butterfly-bush.tif"
-    }
-  ],
-  "schema:numberOfPages": 8
+  "ebucore:hasMimeType": "application/pdf"
 }

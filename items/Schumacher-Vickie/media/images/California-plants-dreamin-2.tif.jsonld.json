@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "California-plants-dreamin-2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Tall arrangement of delicate flowers, grasses, and leaves on a pale background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schumacher-Vickie.pdf"
-  }
+  "schema:alternativeHeadline": "Tall arrangement of delicate flowers, grasses, and leaves on a pale background."
 }

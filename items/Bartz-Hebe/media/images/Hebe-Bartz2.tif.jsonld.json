@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Hebe-Bartz2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Hebe Bartz demonstrates a small object while wearing a blue apron.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Bartz-Hebe.pdf"
-  }
+  "schema:alternativeHeadline": "Hebe Bartz demonstrates a small object while wearing a blue apron."
 }

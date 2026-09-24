@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Takuga-calendar-3-nps-cv.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "January 2016 calendar illustrated with purple flowers and green leaves.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Mullett-Fred-B.pdf"
-  }
+  "schema:alternativeHeadline": "January 2016 calendar illustrated with purple flowers and green leaves."
 }

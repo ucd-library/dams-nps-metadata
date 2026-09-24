@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes-page-003.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Japanese reading edition of the interview with Mineo Yamamoto, page 3 of 11. Includes a transcription, image captions, and original page facsimiles; the complete text is available in the accompanying PDF and text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "Japanese reading edition of the interview with Mineo Yamamoto, page 3 of 11. Includes a transcription, image captions, and original page facsimiles; the complete text is available in the accompanying PDF and text file."
 }

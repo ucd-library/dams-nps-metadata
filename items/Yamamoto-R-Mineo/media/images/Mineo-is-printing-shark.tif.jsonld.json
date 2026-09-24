@@ -17,8 +17,5 @@
   "schema:position": "017",
   "ebucore:filename": "Mineo-is-printing-shark.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Mineo Yamamoto sits at a table with a shark print, inks, and brushes.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "Mineo Yamamoto sits at a table with a shark print, inks, and brushes."
 }

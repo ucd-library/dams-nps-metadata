@@ -17,8 +17,5 @@
   "schema:position": "001",
   "ebucore:filename": "Geary-Ida-CV-page-001.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Ida Geary, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Geary-Ida.pdf"
-  }
+  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Ida Geary, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file."
 }

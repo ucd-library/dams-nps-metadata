@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Octopus-2012-direct-method.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Brown octopus print with curling arms on cream paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Loftus-Lori.pdf"
-  }
+  "schema:alternativeHeadline": "Brown octopus print with curling arms on cream paper."
 }

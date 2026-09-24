@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Terwilliger-Joy-of-Polychaete-Printing.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nora Terwilliger holds a small printed sheet while demonstrating at a table.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Terwilliger-Nora.pdf"
-  }
+  "schema:alternativeHeadline": "Nora Terwilliger holds a small printed sheet while demonstrating at a table."
 }

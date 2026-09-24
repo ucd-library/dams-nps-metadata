@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "IMG_4978.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Bee Shay smiles in a portrait taken at a beach.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Bee Shay smiles in a portrait taken at a beach."
 }

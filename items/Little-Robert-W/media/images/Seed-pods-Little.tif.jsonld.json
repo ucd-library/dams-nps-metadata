@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "Seed-pods-Little.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Assorted curved seed pods printed in black and muted colors on pale blue paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Little-Robert-W.pdf"
-  }
+  "schema:alternativeHeadline": "Assorted curved seed pods printed in black and muted colors on pale blue paper."
 }

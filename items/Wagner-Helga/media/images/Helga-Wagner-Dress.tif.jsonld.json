@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Helga-Wagner-Dress.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "White dress with pink and red flower prints displayed against a blue wall.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga.pdf"
-  }
+  "schema:alternativeHeadline": "White dress with pink and red flower prints displayed against a blue wall."
 }

@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Dr-F-G-Hochberg-Jr.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black-and-white photograph of a bespectacled man beside a smiling child.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
-  }
+  "schema:alternativeHeadline": "Black-and-white photograph of a bespectacled man beside a smiling child."
 }

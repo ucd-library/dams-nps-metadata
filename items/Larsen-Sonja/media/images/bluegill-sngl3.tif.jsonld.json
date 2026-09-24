@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "bluegill-sngl3.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Bluegill print with green, blue, and gold scales on white paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Larsen-Sonja.pdf"
-  }
+  "schema:alternativeHeadline": "Bluegill print with green, blue, and gold scales on white paper."
 }

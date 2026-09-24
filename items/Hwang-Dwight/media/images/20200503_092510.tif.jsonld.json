@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "20200503_092510.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black octopus print with curling arms on a wide white sheet.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hwang-Dwight.pdf"
-  }
+  "schema:alternativeHeadline": "Black octopus print with curling arms on a wide white sheet."
 }

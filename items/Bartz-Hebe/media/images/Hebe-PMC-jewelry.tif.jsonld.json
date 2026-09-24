@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Hebe-PMC-jewelry.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Two pendant necklaces and a pair of leaf-shaped earrings on a light background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Bartz-Hebe.pdf"
-  }
+  "schema:alternativeHeadline": "Two pendant necklaces and a pair of leaf-shaped earrings on a light background."
 }

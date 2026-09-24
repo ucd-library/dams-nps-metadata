@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Holden-C-Ocean-Perch.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Two orange ocean perch printed behind fine branching seaweed.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Holden-Christine.pdf"
-  }
+  "schema:alternativeHeadline": "Two orange ocean perch printed behind fine branching seaweed."
 }

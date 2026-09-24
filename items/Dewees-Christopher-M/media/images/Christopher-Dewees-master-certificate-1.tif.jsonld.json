@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Christopher-Dewees-master-certificate-1.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "International Fish Print Studio certificate naming Christopher Dewees Master Gyotaku Printmaker, framed by two dragons.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M.pdf"
-  }
+  "schema:alternativeHeadline": "International Fish Print Studio certificate naming Christopher Dewees Master Gyotaku Printmaker, framed by two dragons."
 }

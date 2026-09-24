@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Hiyama-1972-Kodansha-book.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Cover of Gyotaku The Art of the Fish Print with Japanese and English lettering and a red fish.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hiyama-Yoshio.pdf"
-  }
+  "schema:alternativeHeadline": "Cover of Gyotaku The Art of the Fish Print with Japanese and English lettering and a red fish."
 }

@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Little-in-field.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black-and-white photograph of Robert Little examining a small specimen outdoors.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Little-Robert-W.pdf"
-  }
+  "schema:alternativeHeadline": "Black-and-white photograph of Robert Little examining a small specimen outdoors."
 }

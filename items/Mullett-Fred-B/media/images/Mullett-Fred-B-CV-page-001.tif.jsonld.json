@@ -17,8 +17,5 @@
   "schema:position": "001",
   "ebucore:filename": "Mullett-Fred-B-CV-page-001.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Fred B. Mullett, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Mullett-Fred-B.pdf"
-  }
+  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Fred B. Mullett, page 1 of 1. Text is available in the accompanying accessible PDF and plain-text file."
 }

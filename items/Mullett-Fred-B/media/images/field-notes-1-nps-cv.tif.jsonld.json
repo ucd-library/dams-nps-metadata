@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "field-notes-1-nps-cv.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Two botanical prints, one with a small green leafy stem and one with a pale stem on red.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Mullett-Fred-B.pdf"
-  }
+  "schema:alternativeHeadline": "Two botanical prints, one with a small green leafy stem and one with a pale stem on red."
 }

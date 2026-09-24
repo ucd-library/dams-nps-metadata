@@ -14,50 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Shay, Bee - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Shay-Bee.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Shay-Bee-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Shay-Bee-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_1356.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_2685.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_4978.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_5098.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_5856.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_6760.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_7174.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_9178.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_9382.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_9755.tif"
-    }
-  ],
-  "schema:numberOfPages": 12
+  "ebucore:hasMimeType": "application/pdf"
 }

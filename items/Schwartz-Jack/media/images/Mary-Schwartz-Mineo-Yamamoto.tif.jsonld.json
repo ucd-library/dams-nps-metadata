@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Mary-Schwartz-Mineo-Yamamoto.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Mary Schwartz and Mineo Yamamoto smile while holding a small framed botanical print.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schwartz-Jack.pdf"
-  }
+  "schema:alternativeHeadline": "Mary Schwartz and Mineo Yamamoto smile while holding a small framed botanical print."
 }

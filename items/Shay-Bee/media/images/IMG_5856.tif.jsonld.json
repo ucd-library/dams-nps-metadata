@@ -17,8 +17,5 @@
   "schema:position": "007",
   "ebucore:filename": "IMG_5856.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Branching dark seed heads printed above a short stem on cream paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Branching dark seed heads printed above a short stem on cream paper."
 }

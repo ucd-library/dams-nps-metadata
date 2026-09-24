@@ -14,32 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Hwang, Dwight - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Hwang-Dwight.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Hwang-Dwight-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/20200421_104520.tif"
-    },
-    {
-      "@id": "@base:../images/20200503_092510.tif"
-    },
-    {
-      "@id": "@base:../images/20200509_192051.tif"
-    },
-    {
-      "@id": "@base:../images/20200825_165704.tif"
-    },
-    {
-      "@id": "@base:../images/_MG_6516.tif"
-    }
-  ],
-  "schema:numberOfPages": 6
+  "ebucore:hasMimeType": "application/pdf"
 }

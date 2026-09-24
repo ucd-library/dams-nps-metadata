@@ -17,8 +17,5 @@
   "schema:position": "012",
   "ebucore:filename": "IMG_9755.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Dark vertical branch or bark impressions over a pale green-blue background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Dark vertical branch or bark impressions over a pale green-blue background."
 }

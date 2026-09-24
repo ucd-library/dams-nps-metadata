@@ -17,8 +17,5 @@
   "schema:position": "001",
   "ebucore:filename": "Hochberg-F-G-Eric-Jr-CV-page-001.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Frederick G. (Eric) Hochberg, Jr., page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
-  }
+  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Frederick G. (Eric) Hochberg, Jr., page 1 of 2. Text is available in the accompanying accessible PDF and plain-text file."
 }

@@ -14,29 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Huffman, Sharron - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Huffman-Sharron.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Huffman-Sharron-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Huffman-Sharron-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Huffman-Inking-Big-Octopus.tif"
-    },
-    {
-      "@id": "@base:../images/Huffman-Koi-Pond.tif"
-    },
-    {
-      "@id": "@base:../images/Huffman-Round-Encaustic.tif"
-    }
-  ],
-  "schema:numberOfPages": 5
+  "ebucore:hasMimeType": "application/pdf"
 }

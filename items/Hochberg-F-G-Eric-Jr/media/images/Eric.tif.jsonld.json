@@ -17,8 +17,5 @@
   "schema:position": "007",
   "ebucore:filename": "Eric.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Eric Hochberg gestures while holding a small plant in front of a green backdrop.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
-  }
+  "schema:alternativeHeadline": "Eric Hochberg gestures while holding a small plant in front of a green backdrop."
 }

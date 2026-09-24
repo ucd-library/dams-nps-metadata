@@ -17,8 +17,5 @@
   "schema:position": "019",
   "ebucore:filename": "Zbar-lingcods-Smithsonian.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Dark lingcod impressions on a warm brown background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "Dark lingcod impressions on a warm brown background."
 }

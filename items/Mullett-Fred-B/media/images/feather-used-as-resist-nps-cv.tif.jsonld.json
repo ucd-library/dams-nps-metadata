@@ -17,8 +17,5 @@
   "schema:position": "008",
   "ebucore:filename": "feather-used-as-resist-nps-cv.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Three vertical panels showing feather impressions over richly colored textured backgrounds.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Mullett-Fred-B.pdf"
-  }
+  "schema:alternativeHeadline": "Three vertical panels showing feather impressions over richly colored textured backgrounds."
 }

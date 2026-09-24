@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Terwilliger-White-Crappie-in-Blue-Water.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "White crappie print against a softly mottled blue-water background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Terwilliger-Nora.pdf"
-  }
+  "schema:alternativeHeadline": "White crappie print against a softly mottled blue-water background."
 }

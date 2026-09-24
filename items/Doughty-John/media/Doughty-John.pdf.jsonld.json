@@ -14,47 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Doughty, John - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Doughty-John.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Doughty-John-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Doughty-John-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Cutleaf-Japanese-Maple.tif"
-    },
-    {
-      "@id": "@base:../images/Hydrangea.tif"
-    },
-    {
-      "@id": "@base:../images/JohnStomping.tif"
-    },
-    {
-      "@id": "@base:../images/JohnWithStompingPress.tif"
-    },
-    {
-      "@id": "@base:../images/Miscanthus-Grape-plant-x-ray.tif"
-    },
-    {
-      "@id": "@base:../images/Money-Plant-plant-x-ray-Cyanotype.tif"
-    },
-    {
-      "@id": "@base:../images/P105.tif"
-    },
-    {
-      "@id": "@base:../images/Rabbit-Footed-Fern.tif"
-    },
-    {
-      "@id": "@base:../images/john-s-prints.tif"
-    }
-  ],
-  "schema:numberOfPages": 11
+  "ebucore:hasMimeType": "application/pdf"
 }

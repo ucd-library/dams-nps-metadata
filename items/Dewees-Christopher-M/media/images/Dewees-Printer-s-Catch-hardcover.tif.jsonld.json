@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "Dewees-Printer-s-Catch-hardcover.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Cover of The Printer's Catch by Christopher M. Dewees, illustrated with two red fish prints.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M.pdf"
-  }
+  "schema:alternativeHeadline": "Cover of The Printer's Catch by Christopher M. Dewees, illustrated with two red fish prints."
 }

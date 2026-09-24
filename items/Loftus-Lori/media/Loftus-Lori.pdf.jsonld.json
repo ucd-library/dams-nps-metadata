@@ -14,29 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Loftus, Lori - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Loftus-Lori.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Loftus-Lori-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Eco-Dyed-silk-2017-steam-method.tif"
-    },
-    {
-      "@id": "@base:../images/OIMB-2013-Ling-Cod-indirect-method.tif"
-    },
-    {
-      "@id": "@base:../images/Octopus-2012-direct-method.tif"
-    },
-    {
-      "@id": "@base:../images/Snapper-2016-indirect-method.tif"
-    }
-  ],
-  "schema:numberOfPages": 5
+  "ebucore:hasMimeType": "application/pdf"
 }

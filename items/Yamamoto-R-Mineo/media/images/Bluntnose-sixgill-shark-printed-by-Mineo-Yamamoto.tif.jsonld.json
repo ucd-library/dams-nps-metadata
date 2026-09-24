@@ -17,8 +17,5 @@
   "schema:position": "015",
   "ebucore:filename": "Bluntnose-sixgill-shark-printed-by-Mineo-Yamamoto.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Mineo Yamamoto works beside a very large brown sixgill shark print.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "Mineo Yamamoto works beside a very large brown sixgill shark print."
 }

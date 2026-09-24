@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Marian-Snapper.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black-and-white print of a group of snappers on cream paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cromley-Marian.pdf"
-  }
+  "schema:alternativeHeadline": "Black-and-white print of a group of snappers on cream paper."
 }

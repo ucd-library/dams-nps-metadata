@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "Helga-Wagner-Plant-print2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Printed page with a row of colorful flower and leaf impressions above columns of German text.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga.pdf"
-  }
+  "schema:alternativeHeadline": "Printed page with a row of colorful flower and leaf impressions above columns of German text."
 }

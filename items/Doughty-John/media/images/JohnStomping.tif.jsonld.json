@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "JohnStomping.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "John Doughty looks down while standing on a floor-mounted printing press in a workshop.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Doughty-John.pdf"
-  }
+  "schema:alternativeHeadline": "John Doughty looks down while standing on a floor-mounted printing press in a workshop."
 }

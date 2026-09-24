@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "Nagase-Antarctic-Fishes-cover.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Cover of Antarctic Fishes by Boshu Nagase with several fish illustrations.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Nagase-Boshu.pdf"
-  }
+  "schema:alternativeHeadline": "Cover of Antarctic Fishes by Boshu Nagase with several fish illustrations."
 }

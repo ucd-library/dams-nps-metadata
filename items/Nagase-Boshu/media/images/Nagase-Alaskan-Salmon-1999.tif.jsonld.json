@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Nagase-Alaskan-Salmon-1999.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Salmon print with dark side markings and reddish fins on pale paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Nagase-Boshu.pdf"
-  }
+  "schema:alternativeHeadline": "Salmon print with dark side markings and reddish fins on pale paper."
 }

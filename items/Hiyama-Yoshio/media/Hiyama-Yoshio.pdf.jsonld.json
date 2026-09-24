@@ -14,50 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Hiyama, Yoshio - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Hiyama-Yoshio.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Hiyama-Yoshio-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-Yoshio-Letter-1974-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-Yoshio-Letter-1974-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-1964-book.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-1972-Kodansha-book.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-Butterfish-indirect.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-Young-flatfishes-direct.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-pollock-indirect.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-red-sea-bream-indirect.tif"
-    },
-    {
-      "@id": "@base:../images/Hiyama-rockfish-direct.tif"
-    },
-    {
-      "@id": "@base:../images/Oldest-gyotaku-Homma-Museum.tif"
-    },
-    {
-      "@id": "@base:../images/Yoshio-Hiyama-photo.tif"
-    }
-  ],
-  "schema:numberOfPages": 12
+  "ebucore:hasMimeType": "application/pdf"
 }

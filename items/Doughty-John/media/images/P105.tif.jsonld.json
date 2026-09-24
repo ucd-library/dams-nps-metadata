@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "P105.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "John Doughty smiles while wearing a shirt decorated with colorful leaf prints.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Doughty-John.pdf"
-  }
+  "schema:alternativeHeadline": "John Doughty smiles while wearing a shirt decorated with colorful leaf prints."
 }

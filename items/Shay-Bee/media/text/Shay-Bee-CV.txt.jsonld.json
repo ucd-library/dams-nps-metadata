@@ -12,11 +12,7 @@
   "@type": [
     "schema:CreativeWork"
   ],
+  "ucdlib:textIndexable": true,
   "ebucore:filename": "Shay-Bee-CV.txt",
-  "ebucore:hasMimeType": "text/plain",
-  "schema:inLanguage": "en",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  },
-  "ucdlib:textIndexable": true
+  "ebucore:hasMimeType": "text/plain"
 }

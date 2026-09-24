@@ -17,8 +17,5 @@
   "schema:position": "003",
   "ebucore:filename": "Arrowhead-Arum-with-d-fly-stained-bkgrnd-traditional-4x5-2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Arrowhead arum leaves and a dragonfly printed on mottled tan paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schumacher-Vickie.pdf"
-  }
+  "schema:alternativeHeadline": "Arrowhead arum leaves and a dragonfly printed on mottled tan paper."
 }

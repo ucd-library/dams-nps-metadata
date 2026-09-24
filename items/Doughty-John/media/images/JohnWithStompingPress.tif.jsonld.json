@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "JohnWithStompingPress.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "John Doughty stands beside a stomping press wearing an apron covered with nature prints.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Doughty-John.pdf"
-  }
+  "schema:alternativeHeadline": "John Doughty stands beside a stomping press wearing an apron covered with nature prints."
 }

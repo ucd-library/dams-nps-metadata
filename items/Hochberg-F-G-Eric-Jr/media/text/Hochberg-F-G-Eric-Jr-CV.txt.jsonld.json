@@ -12,11 +12,7 @@
   "@type": [
     "schema:CreativeWork"
   ],
+  "ucdlib:textIndexable": true,
   "ebucore:filename": "Hochberg-F-G-Eric-Jr-CV.txt",
-  "ebucore:hasMimeType": "text/plain",
-  "schema:inLanguage": "en",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hochberg-F-G-Eric-Jr.pdf"
-  },
-  "ucdlib:textIndexable": true
+  "ebucore:hasMimeType": "text/plain"
 }

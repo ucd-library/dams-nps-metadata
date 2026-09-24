@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Geary-Book-announcement.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Printed Workshops and Exhibits announcement describing Ida Geary’s botanical prints and Sonja Larsen’s nature-printing classes.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Geary-Ida.pdf"
-  }
+  "schema:alternativeHeadline": "Printed Workshops and Exhibits announcement describing Ida Geary’s botanical prints and Sonja Larsen’s nature-printing classes."
 }

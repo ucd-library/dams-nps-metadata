@@ -17,8 +17,5 @@
   "schema:position": "010",
   "ebucore:filename": "Flounder-indirect.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Brown and yellow flounder print on pale paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M.pdf"
-  }
+  "schema:alternativeHeadline": "Brown and yellow flounder print on pale paper."
 }

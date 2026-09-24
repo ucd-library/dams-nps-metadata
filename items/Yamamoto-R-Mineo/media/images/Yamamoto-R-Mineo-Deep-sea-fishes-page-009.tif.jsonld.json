@@ -17,8 +17,5 @@
   "schema:position": "011",
   "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes-page-009.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "元の見開きページ14・15。右に青緑色のリュウグウノヒメ、赤いミルクガニ、翼のようなひれのセミホウボウ。左上に机を囲む受講者、左下に細長いリュウグウノツカイの作品。",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "元の見開きページ14・15。右に青緑色のリュウグウノヒメ、赤いミルクガニ、翼のようなひれのセミホウボウ。左上に机を囲む受講者、左下に細長いリュウグウノツカイの作品。"
 }

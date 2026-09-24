@@ -17,8 +17,5 @@
   "schema:position": "007",
   "ebucore:filename": "Dewees-chop.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "White calligraphic seal characters inside a rectangular border on black.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Dewees-Christopher-M.pdf"
-  }
+  "schema:alternativeHeadline": "White calligraphic seal characters inside a rectangular border on black."
 }

@@ -17,8 +17,5 @@
   "schema:position": "011",
   "ebucore:filename": "Oldest-gyotaku-Homma-Museum.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Historic black fish print surrounded by Japanese writing, captioned as an 1862 print at the Homma Museum.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hiyama-Yoshio.pdf"
-  }
+  "schema:alternativeHeadline": "Historic black fish print surrounded by Japanese writing, captioned as an 1862 print at the Homma Museum."
 }

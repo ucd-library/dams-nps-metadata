@@ -17,8 +17,5 @@
   "schema:position": "010",
   "ebucore:filename": "IMG_9178.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Single yellow-green oak leaf printed on white paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Single yellow-green oak leaf printed on white paper."
 }

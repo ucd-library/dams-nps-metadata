@@ -17,8 +17,5 @@
   "schema:position": "007",
   "ebucore:filename": "Queen-Anne-with-pincushion-and-dragonfly.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Tall stems of Queen Anne's lace, other flowers, and a dragonfly on tan paper.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schumacher-Vickie.pdf"
-  }
+  "schema:alternativeHeadline": "Tall stems of Queen Anne's lace, other flowers, and a dragonfly on tan paper."
 }

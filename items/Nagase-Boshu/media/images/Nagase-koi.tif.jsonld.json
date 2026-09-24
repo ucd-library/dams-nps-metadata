@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Nagase-koi.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Framed orange, white, and black koi on a dark blue background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Nagase-Boshu.pdf"
-  }
+  "schema:alternativeHeadline": "Framed orange, white, and black koi on a dark blue background."
 }

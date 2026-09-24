@@ -14,32 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Holden, Christine - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Holden-Christine.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Holden-Christine-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Holden-C-Drifting-Over-the-Coral-juv-Blue-Tang.tif"
-    },
-    {
-      "@id": "@base:../images/Holden-C-Mangrove-Snappers-1.tif"
-    },
-    {
-      "@id": "@base:../images/Holden-C-Ocean-Perch.tif"
-    },
-    {
-      "@id": "@base:../images/Holden-C-Quilt-Blue-Rockfish.tif"
-    },
-    {
-      "@id": "@base:../images/Holden-C-Quilt-Sargassum-Symphony.tif"
-    }
-  ],
-  "schema:numberOfPages": 6
+  "ebucore:hasMimeType": "application/pdf"
 }

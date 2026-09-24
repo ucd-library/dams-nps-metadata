@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "20200421_104520.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Black fish print on a tall white sheet, with branching forms below the fish.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hwang-Dwight.pdf"
-  }
+  "schema:alternativeHeadline": "Black fish print on a tall white sheet, with branching forms below the fish."
 }

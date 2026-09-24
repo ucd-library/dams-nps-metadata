@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "Hiyama-red-sea-bream-indirect.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Pink sea bream print on a green and pale blue background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Hiyama-Yoshio.pdf"
-  }
+  "schema:alternativeHeadline": "Pink sea bream print on a green and pale blue background."
 }

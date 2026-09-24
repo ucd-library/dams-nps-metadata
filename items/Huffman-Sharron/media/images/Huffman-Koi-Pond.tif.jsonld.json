@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "Huffman-Koi-Pond.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Circular artwork showing colorful koi against a mottled pale blue pond background.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Huffman-Sharron.pdf"
-  }
+  "schema:alternativeHeadline": "Circular artwork showing colorful koi against a mottled pale blue pond background."
 }

@@ -17,8 +17,5 @@
   "schema:position": "002",
   "ebucore:filename": "Bartz-Hebe-CV-page-002.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Lila Anne (Hebe) Bartz, page 2 of 2. Text is available in the accompanying accessible PDF and plain-text file.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Bartz-Hebe.pdf"
-  }
+  "schema:alternativeHeadline": "Nature Printing Curriculum Vitae: Lila Anne (Hebe) Bartz, page 2 of 2. Text is available in the accompanying accessible PDF and plain-text file."
 }

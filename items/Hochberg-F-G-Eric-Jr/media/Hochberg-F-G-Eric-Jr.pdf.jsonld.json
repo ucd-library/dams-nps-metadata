@@ -14,38 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Hochberg, F. G. (Eric), Jr. - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Hochberg-F-G-Eric-Jr.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Hochberg-F-G-Eric-Jr-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Hochberg-F-G-Eric-Jr-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Dr-F-G-Hochberg-Jr.tif"
-    },
-    {
-      "@id": "@base:../images/Eric-copy.tif"
-    },
-    {
-      "@id": "@base:../images/Eric-s-Shovelnose-copy.tif"
-    },
-    {
-      "@id": "@base:../images/Eric-s-Shovelnose.tif"
-    },
-    {
-      "@id": "@base:../images/Eric.tif"
-    },
-    {
-      "@id": "@base:../images/Hochberg-good-copy.tif"
-    }
-  ],
-  "schema:numberOfPages": 8
+  "ebucore:hasMimeType": "application/pdf"
 }

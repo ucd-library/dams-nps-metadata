@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Helga-Wagner-Plant-print2-1.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Folded brochure with colorful botanical illustrations and German text.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga.pdf"
-  }
+  "schema:alternativeHeadline": "Folded brochure with colorful botanical illustrations and German text."
 }

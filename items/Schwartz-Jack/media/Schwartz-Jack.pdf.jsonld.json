@@ -14,26 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Schwartz, Jack - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Schwartz-Jack.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Schwartz-Jack-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Mary-Schwartz-Mineo-Yamamoto.tif"
-    },
-    {
-      "@id": "@base:../images/Process-2-Applying-Paint.tif"
-    },
-    {
-      "@id": "@base:../images/SilverSTriperchasing-bait.tif"
-    }
-  ],
-  "schema:numberOfPages": 4
+  "ebucore:hasMimeType": "application/pdf"
 }

@@ -12,11 +12,7 @@
   "@type": [
     "schema:CreativeWork"
   ],
+  "ucdlib:textIndexable": true,
   "ebucore:filename": "Cromley-Marian-CV.txt",
-  "ebucore:hasMimeType": "text/plain",
-  "schema:inLanguage": "en",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Cromley-Marian.pdf"
-  },
-  "ucdlib:textIndexable": true
+  "ebucore:hasMimeType": "text/plain"
 }

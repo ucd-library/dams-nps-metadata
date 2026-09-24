@@ -14,29 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Larsen, Sonja - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Larsen-Sonja.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": "en",
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Larsen-Sonja-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_0555.tif"
-    },
-    {
-      "@id": "@base:../images/IMG_08walleye_2.tif"
-    },
-    {
-      "@id": "@base:../images/bluegill-sngl3.tif"
-    },
-    {
-      "@id": "@base:../images/sl-studio.tif"
-    }
-  ],
-  "schema:numberOfPages": 5
+  "ebucore:hasMimeType": "application/pdf"
 }

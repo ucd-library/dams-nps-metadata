@@ -17,8 +17,5 @@
   "schema:position": "004",
   "ebucore:filename": "IMG_2685.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Patchwork collage of botanical prints in cream, gray, brown, and black rectangles.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Patchwork collage of botanical prints in cream, gray, brown, and black rectangles."
 }

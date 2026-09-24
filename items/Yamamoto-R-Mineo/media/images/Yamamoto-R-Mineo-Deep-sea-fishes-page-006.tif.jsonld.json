@@ -17,8 +17,5 @@
   "schema:position": "008",
   "ebucore:filename": "Yamamoto-R-Mineo-Deep-sea-fishes-page-006.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "元の見開きページ8・9。右に記事の見出しと縦書き本文、左上に色とりどりの魚の作品、下に長い口先と大きな青い背びれを持つバショウカジキの魚拓。",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Yamamoto-R-Mineo.pdf"
-  }
+  "schema:alternativeHeadline": "元の見開きページ8・9。右に記事の見出しと縦書き本文、左上に色とりどりの魚の作品、下に長い口先と大きな青い背びれを持つバショウカジキの魚拓。"
 }

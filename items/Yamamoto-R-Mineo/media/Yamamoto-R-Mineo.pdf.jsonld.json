@@ -14,80 +14,9 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:name": "Yamamoto, R. Mineo - CV and supporting materials",
   "schema:associatedMedia": {
     "@id": "@base:../images"
   },
   "ebucore:filename": "Yamamoto-R-Mineo.pdf",
-  "ebucore:hasMimeType": "application/pdf",
-  "schema:inLanguage": [
-    "en",
-    "ja"
-  ],
-  "schema:hasPart": [
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-CV-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-CV-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-001.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-002.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-003.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-004.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-005.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-006.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-007.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-008.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-009.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-010.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-R-Mineo-Deep-sea-fishes-page-011.tif"
-    },
-    {
-      "@id": "@base:../images/52-kind-deep-sea-fishes.tif"
-    },
-    {
-      "@id": "@base:../images/Bluntnose-sixgill-shark-printed-by-Mineo-Yamamoto.tif"
-    },
-    {
-      "@id": "@base:../images/Mineo-is-printing-52-kind-deep-sea-fishes.tif"
-    },
-    {
-      "@id": "@base:../images/Mineo-is-printing-shark.tif"
-    },
-    {
-      "@id": "@base:../images/Yamamoto-Dewees-collection.tif"
-    },
-    {
-      "@id": "@base:../images/Zbar-lingcods-Smithsonian.tif"
-    },
-    {
-      "@id": "@base:../images/fishes-of-Okinawa.tif"
-    },
-    {
-      "@id": "@base:../images/small-pic-of-Giant-squid.tif"
-    }
-  ],
-  "schema:numberOfPages": 21
+  "ebucore:hasMimeType": "application/pdf"
 }

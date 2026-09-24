@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../Dewees-Christopher-M.pdf"
+    "@id": "@base:../.."
   },
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

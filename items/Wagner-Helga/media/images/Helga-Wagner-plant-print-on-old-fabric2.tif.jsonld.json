@@ -17,8 +17,5 @@
   "schema:position": "009",
   "ebucore:filename": "Helga-Wagner-plant-print-on-old-fabric2.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Blue and green leaf impressions on pale woven fabric.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Wagner-Helga.pdf"
-  }
+  "schema:alternativeHeadline": "Blue and green leaf impressions on pale woven fabric."
 }

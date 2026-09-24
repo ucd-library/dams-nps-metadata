@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "Holden-C-Quilt-Sargassum-Symphony.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Tall quilt featuring striped fish and seaweed on turquoise fabric with a dark border.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Holden-Christine.pdf"
-  }
+  "schema:alternativeHeadline": "Tall quilt featuring striped fish and seaweed on turquoise fabric with a dark border."
 }

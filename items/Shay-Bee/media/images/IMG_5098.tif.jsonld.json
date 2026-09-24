@@ -17,8 +17,5 @@
   "schema:position": "006",
   "ebucore:filename": "IMG_5098.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Overlapping botanical print cards show leaves in muted green, ocher, and rust colors.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Shay-Bee.pdf"
-  }
+  "schema:alternativeHeadline": "Overlapping botanical print cards show leaves in muted green, ocher, and rust colors."
 }

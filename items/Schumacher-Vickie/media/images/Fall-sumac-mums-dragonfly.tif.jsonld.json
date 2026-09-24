@@ -17,8 +17,5 @@
   "schema:position": "005",
   "ebucore:filename": "Fall-sumac-mums-dragonfly.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "schema:alternativeHeadline": "Autumn botanical composition with reddish sumac leaves, flowers, and a dragonfly.",
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../../Schumacher-Vickie.pdf"
-  }
+  "schema:alternativeHeadline": "Autumn botanical composition with reddish sumac leaves, flowers, and a dragonfly."
 }
